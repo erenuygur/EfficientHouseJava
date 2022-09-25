@@ -10,7 +10,7 @@ public class IndexOf {
         System.out.printf("%c'nin Indexi:%d%n", ch ,index);
 
         char chr = 'f';
-        int index2 = s.indexOf(chr); //eger aradigimiz karakter bulunamazsa bize -1 degerini doner
+        int index2 = s.indexOf(chr); // eger airdigimiz karakter bulunamazsa bize -1 degerini doner
         System.out.printf("%c'nin Indexi:%d%n", chr ,index2);
 
         String s2 = "Java";
