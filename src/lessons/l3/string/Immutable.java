@@ -3,20 +3,20 @@ package lessons.l3.string;
 public class Immutable {
     public static void main(String[] args)
     {
-        // Immutable (Degismez) Class
-        String isim = "Eren";
-        String isim2 = "Eren";
-        String isim3 = "Eren";
+        // Immutable Class (String)
+        String isim = "Apple";
+        String isim2 = "Apple";
+        String isim3 = "Apple";
 
-        if (isim == isim2) // Ayni nesnenin referansini tutup tutmatigina bakar
-            System.out.println("Ayni");
+        if (isim == isim2) // Checks if they have same references (Memory address) on memory
+            System.out.println("Same object");
         else
-            System.out.println("Farkli");
+            System.out.println("Different object");
 
         if (isim == isim3)
-            System.out.println("Ayni");
+            System.out.println("Same object");
         else
-            System.out.println("Farkli");
+            System.out.println("Different object");
 
     }
 }

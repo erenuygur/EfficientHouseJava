@@ -12,7 +12,7 @@ public class PrimitiveTypes {
         int i2 = 1010; //decimal
         System.out.println(i2);
 
-        int i3 = 0137; //Octal integer
+        int i3 = 0137; //Octal
         System.out.println(i3);
 
         int i4 = 0x35A;
@@ -33,7 +33,7 @@ public class PrimitiveTypes {
         char ch5 = 0xFFFF; // char -> [0, 65535]
         System.out.println(ch5);
 
-        System.out.println("Y = \u0059 \nA = \u2161 HASTASIN");
+        System.out.println("Y = \u0059 \n A = \u2161");
     }
 
     public static void decimalNumbers()

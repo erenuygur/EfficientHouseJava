@@ -3,7 +3,7 @@ package lessons.l3.string;
 public class ChartAt {
     public static void main(String[] args)
     {
-        // charAt metodu herhangi bir indexteki karakteri elde etmede kullanilir.
+        // charAt method is used to get the character in any index
 
         String str = "EFFICIENT HOUSE ";
 

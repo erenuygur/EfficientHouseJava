@@ -3,18 +3,17 @@ package lessons.l3.string;
 public class Equals {
     public static void main(String[] args)
     {
-        String s = "Efficient House"; // Onbellege alinir
-        String s2 = new String("Efficient House"); // Yeni nesne yaratmak yerine onbellekte olan nesneyi kullanir
-
+        String s = "Efficient House"; // it's cached
+        String s2 = "Efficient House"; // Uses cached object instead of creating new object
         if (s == s2)
-            System.out.println("Bu referanslar ayni nesnenin adresini tutuyor");
+            System.out.println("Same object");
         else
-            System.out.println("Bu referanslar ayni nesnenin adresini tutmuyor");
+            System.out.println("Different object");
 
         if (s.equals(s2))
-            System.out.println("Bunlar tam olarak ayni karakterleri tutuyor");
+            System.out.println("These keep exactly the same characters");
         else
-            System.out.println("Bunlar ayni karakterleri tutmuyor");
+            System.out.println("These do not hold the same characters");
 
 
         String str = "EFFICIENT HOUSE";
@@ -22,9 +21,9 @@ public class Equals {
 
 
         if (str.equalsIgnoreCase(str2))
-            System.out.println("Bunlar buyukluk kuculukluk haric ayni karakterleri tutuyor");
+            System.out.println("Same character set except for case sensitive");
         else
-            System.out.println("Bunlar buyukluk kuculukluk haric ayni karakterleri tutmuyor");
+            System.out.println("Different character set except for case sensitive");
 
     }
 }

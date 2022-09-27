@@ -10,16 +10,16 @@ public class ExpressionsAndAssignment {
         int age;
         int ageOfTree;
 
-        byte b = 127; // ilk deger vermede gecerli
-        short s = 32535; // ilk deger vermede gecerli
+        byte b = 127; // it's valid for the first initialization
+        short s = 32535; // it's valid for the first initialization
         int i = 223232;
         long l = 213654515144L;
 
-        float f = 5.3f; //IEEE 754 formatinda tutulur.
-        double d = 3.5;
+        float f = 5.3f; //IEEE 754
+        double d = 3.5; //IEEE 754
 
-        boolean bool = true; // 2 farkli deger (true, false)
-        char ch = 67;
+        boolean bool = true; //(true, false)
+        char ch = 67; //Character
         char ch2 = 'C';
 
         int x, y, z;
@@ -27,9 +27,9 @@ public class ExpressionsAndAssignment {
 
         double x1 = 4.5, x2 = 5.6, x3 = 5L;
 
-        int eren; //dec.
+        int eren; //declaration
         eren = 5;
 
-        int eren2 = 3; //ilk deger verme
+        int eren2 = 3; //initialization
     }
 }

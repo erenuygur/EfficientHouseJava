@@ -3,29 +3,29 @@ package lessons.l3.string;
 public class UpperLower {
     public static void main(String[] args)
     {
-        String s = "bes";
-        String s2 = s.toUpperCase(); //Harfleri buyultuyor
+        String s = "five";
+        String s2 = s.toUpperCase(); // Returns: the String, converted to uppercase.
 
-        // String sinifi immutable class oldugundan degisiklik yapilamaz, nesneyi alip (nesnenin ustunde degil)
-        // degisiklik yaparak bize yeni bir nesne dondurur.
+        // String's are constant; their values cannot be changed after they are created.
+        // Because String objects are immutable they can be shared. For example:
 
         if (s == s2)
-            System.out.println("Ayni nesne");
+            System.out.println("Same object");
         else
-            System.out.println("Farkli nesne");
+            System.out.println("Different object");
 
         System.out.println(s);
         System.out.println(s2);
 
 
-        String s3 = "BES";
-        String s4 = s3.toLowerCase(); //Harfleri kucultur
+        String s3 = "FIVE";
+        String s4 = s3.toLowerCase(); // Returns: the String, converted to lowercase.
 
         System.out.println(s4);
 
         if (s == s4)
-            System.out.println("Ayni");
+            System.out.println("Same object");
         else
-            System.out.println("Farkli");
+            System.out.println("Different object");
     }
 }

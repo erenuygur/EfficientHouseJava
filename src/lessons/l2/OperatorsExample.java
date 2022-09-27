@@ -9,8 +9,8 @@ public class OperatorsExample {
 //        ++a; // a = a + 1;
 //        System.out.println(a);
 
-//        b = a++; // b'ye a'nin degerini ata || sonra da a'yi 1 arttir
-//        b = ++a; // a'yi 1 arttir sonra || a'nin degerini b ye ata
+//        b = a++;
+//        b = ++a;
 
         b = 5 + a++;
 
@@ -26,8 +26,8 @@ public class OperatorsExample {
 //        z = 3;
 //        y = y + 1;
 
-        System.out.println(z); // 3 2
-        System.out.println(x); // 11 10(Samet?)
+        System.out.println(z); // 3
+        System.out.println(x); // 11
         System.out.println(y); // 21
 
 //        int x1 = 10;
@@ -79,7 +79,7 @@ public class OperatorsExample {
 
         System.out.println("---------------------");
         int q1 = 10;
-        q1 = q1++; // Beyin yakan ornek 1
+        q1 = q1++; // Brain f*ck
 
         System.out.println(q1); // 10
 
