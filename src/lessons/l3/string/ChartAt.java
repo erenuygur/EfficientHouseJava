@@ -3,7 +3,7 @@ package lessons.l3.string;
 public class ChartAt {
     public static void main(String[] args)
     {
-        // charAt method is used to get the character in any index
+        //Returns: the char value at the specified index of this string. The first char value is at index 0.
 
         String str = "EFFICIENT HOUSE ";
 
