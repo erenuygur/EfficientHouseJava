@@ -1,7 +1,5 @@
 package lessons.l4;
 
-import java.util.function.DoubleFunction;
-
 public class PrintMethods {
     public static void main(String[] args)
     {
