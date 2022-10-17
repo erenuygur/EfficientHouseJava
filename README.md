@@ -10,3 +10,4 @@
 |3|`25.09.2022`|String Class|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l3/string)|String class and defined methods<br>  (lenght, equals, toUpperCase, toLowerCase, indexOf, charAt, trim)|
 |4|`01.10.2022`|Print Methods|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l4)|print, printf and println functions and their usage|
 |5|`08.10.2022`|Scanner Class|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l5)|Scanner class, its usage and reading different input data|
+|6|`16.10.2022`|Conditional Statements|[Lesson 6](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l6)|If/Else statements, `&&` (AND) and `\|\|` (OR) logical operators, boolean expressions, ternary operator and their usage |
