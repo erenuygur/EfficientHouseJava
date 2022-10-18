@@ -8,7 +8,8 @@ public class VoidTypeMethods {
         isEven(-3);
     }
 
-    public static void isEven(int val) {
+    public static void isEven(int val)
+    {
         if (val < 0) {
             System.out.println("Illegal input: You can not enter negative value.");
             return;
