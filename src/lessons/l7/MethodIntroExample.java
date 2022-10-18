@@ -1,13 +1,13 @@
 package lessons.l7;
 
-public class Method2 {
+public class MethodIntroExample {
     public static void main(String[] args)
     {
-        System.out.println("main starts ;)");
+        System.out.println("main method starts ;)");
         foo();
         bar();
         tar();
-        System.out.println("main ends ;(");
+        System.out.println("main method ends ;(");
     }
 
     public static void foo()

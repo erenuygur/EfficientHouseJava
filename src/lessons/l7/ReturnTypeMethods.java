@@ -1,6 +1,6 @@
 package lessons.l7;
 
-public class Method5 {
+public class ReturnTypeMethods {
     public static void main(String[] args)
     {
         java.util.Scanner keyboard = new java.util.Scanner(System.in);
@@ -29,7 +29,7 @@ public class Method5 {
 
     public static int addTwoNumbers(int a, int b)
     {
-        return a + b; // int araDegisken = a + b;
+        return a + b; // int temp = a + b;
     }
 
     public static int addThreeNumbers(int a, int b, int c)

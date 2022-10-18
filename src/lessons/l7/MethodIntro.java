@@ -1,12 +1,12 @@
 
 package lessons.l7;
 
-public class Method {
+public class MethodIntro {
     public static void main(String[] args)
     {
         System.out.println("main starts ;)");
-        lessons.l7.Method.foo();
-        Method.bar();
+        MethodIntro.foo();
+        MethodIntro.bar();
         tar();
         System.out.println("main ends ;(");
     }

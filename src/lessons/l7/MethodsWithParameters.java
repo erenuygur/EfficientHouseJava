@@ -1,6 +1,6 @@
 package lessons.l7;
 
-public class Method4 {
+public class MethodsWithParameters {
     public static void main(String[] args)
     {
         addTwoNumbers(5, 6);

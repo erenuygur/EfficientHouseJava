@@ -1,13 +1,13 @@
 package lessons.l7;
 
-public class Method3 {
+public class MethodCalling {
     public static void main(String[] args)
     {
-        System.out.println("main starts ;)");
-        foo("Ben foo yu cagirdim");
-        bar("Hey bar orda misin ?");
-        tar("tar hocam zahmet olmazsa bir bakar misin ?");
-        System.out.println("main ends ;(");
+        System.out.println("main method starts ;)");
+        foo("call foo()");
+        bar("call bar()");
+        tar("call tar()");
+        System.out.println("main method ends ;(");
     }
 
     public static void foo(String message)

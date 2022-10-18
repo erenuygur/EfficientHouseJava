@@ -1,6 +1,6 @@
 package lessons.l7;
 
-public class Method6 {
+public class VoidTypeMethods {
     public static void main(String[] args)
     {
         isEven(10);
@@ -10,7 +10,7 @@ public class Method6 {
 
     public static void isEven(int val) {
         if (val < 0) {
-            System.out.println("Abi hatali girdin ben geri donuyom (ama bir sey getirmiyorum :))");
+            System.out.println("Illegal input: You can not enter negative value.");
             return;
         }
 
