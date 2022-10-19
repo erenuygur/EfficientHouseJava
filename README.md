@@ -1,7 +1,9 @@
+###
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg"/>
+
 # **Efficient House** #
 
 **Code implementation and exercises from Absolute Java book.**
-
 
 |#|**Date**|**Topic**|**Exercises**|**Context**|      
 |-|--------|---------|-------------|-----------|      
@@ -11,3 +13,4 @@
 |4|`01.10.2022`|Print Methods|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l4)|print, printf and println functions and their usage|
 |5|`08.10.2022`|Scanner Class|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l5)|Scanner class, its usage and reading different input data|
 |6|`16.10.2022`|Conditional Statements|[Lesson 6](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l6)|If/Else statements, `&&` (AND) and `\|\|` (OR) logical operators, boolean expressions, ternary operator and their usage |
+|7|`18.10.2022`|Method Introduction|[Lesson 7](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l7)|Method introduction, using methods with arguments and donation types of methods|
