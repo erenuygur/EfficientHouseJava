@@ -11,17 +11,15 @@ public class IfElseExample2 {
         // Display Generation
 
         if (age < 5) {
-            System.out.println("Bebek");
+            System.out.println("Baby");
         } else if (age < 13) {
-            System.out.println("Cocuk");
-        } else if (age < 18) {
-            System.out.println("Genc");
+            System.out.println("Child");
         } else if (age < 25) {
-            System.out.println("Yetiskin");
+            System.out.println("Young");
         } else if (age < 35) {
-            System.out.println("Orta yas");
+            System.out.println("Mid");
         } else {
-            System.out.println("Yasli");
+            System.out.println("Old");
         }
     }
 }

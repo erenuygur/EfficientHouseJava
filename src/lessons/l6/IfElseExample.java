@@ -21,15 +21,14 @@ public class IfElseExample {
 
 
         if (yasinAge >= 18) {
-            System.out.println("Ilk adim tamamlandi");
 
-            System.out.print("Yasinin kiz arkadasi var mi? ");
+            System.out.print("Do you have girlfriend ? ");
             boolean hasGirlFriend = keyboard.nextBoolean();
 
             if (hasGirlFriend) {
-                System.out.println("Girebilirsin");
+                System.out.println("You can enter the disco");
             } else {
-                System.out.println("Giremezsin");
+                System.out.println("You cant enter");
             }
         }
     }
