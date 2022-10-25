@@ -6,13 +6,13 @@ public class InfinityLoopWithWhile {
         byte number = 1;
 
         while (number > 0) {
-            System.out.println("SONSUZ DEGIL");
+            System.out.println("Its not infinite");
             ++number;
             System.out.println(number);
         }
 
         while (true) {
-            System.out.println("SONSUZ ;)");
+            System.out.println("Its infinite ;)");
             ++number;
             System.out.println(number);
 

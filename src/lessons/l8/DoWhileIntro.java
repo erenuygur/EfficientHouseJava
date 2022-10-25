@@ -5,8 +5,8 @@ public class DoWhileIntro {
     {
         /*
         do {
-
-        } while (boolean);
+            <statements>
+        } while (condition);
          */
 
         java.util.Scanner kb = new java.util.Scanner(System.in);

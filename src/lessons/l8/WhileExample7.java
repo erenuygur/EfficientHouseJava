@@ -1,10 +1,9 @@
 package lessons.l8;
 /*
-        Parametresi ile aldığı int türden bir sayının tersini döndüren reversed isimli metodu
-	    yazınız
+        Write a method named reversed that will take an int argument and returns reverse of argument.
 
-	 123 -> 3 -> 3 * 10 + 2 = 32 -> 32 * 10 + 1 = 321
-        */
+        123 -> 3 -> 3 * 10 + 2 = 32 -> 32 * 10 + 1 = 321
+ */
 public class WhileExample7 {
     public static void main(String[] args)
     {
@@ -19,7 +18,7 @@ public class WhileExample7 {
         System.out.println("Number:");
 
         while ((val = kb.nextInt()) != 0) {
-            System.out.printf("%d sayisinin tersi %d%n", val, reversed(val));
+            System.out.printf("%d -> reversed: %d%n", val, reversed(val));
             System.out.println("Number:");
         }
     }

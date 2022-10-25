@@ -1,20 +1,23 @@
 package lessons.l8;
 
 /*
-    Klavyeden sifir girilene kadar girilen degerleri pozitif ve negatif olarak toplayip ekrana bastir.
- */
+    Write a method named countPositiveAndNegatives that takes no argument and that will sum positive and
+    negative numbers and until entered zero from input. This will display total positives and negatives on the
+    screen.
+*/
 
 public class WhileExample3 {
     public static void main(String[] args)
     {
-        run();
+        countPositiveAndNegatives();
     }
 
-    public static void run()
+    public static void countPositiveAndNegatives()
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
-
+        System.out.println("Enter numbers (EXIT = 0):");
         int val;
+
         int positive = 0, negative = 0;
 
         while ((val = kb.nextInt()) != 0) {
@@ -30,13 +33,13 @@ public class WhileExample3 {
     public static void display(int positive, int negative)
     {
         if (positive > 0)
-            System.out.printf("Pozitif sayilar toplami: %d%n", positive);
+            System.out.printf("Sum of Positive numbers: %d%n", positive);
         else
-            System.out.println("Hic pozitif sayi girmediniz");
+            System.out.println("You have not entered any Positive number");
 
         if (negative < 0)
-            System.out.printf("Negatif sayilar toplami: %d%n", negative);
+            System.out.printf("Sum of Negative numbers: %d%n", negative);
         else
-            System.out.println("Hic negatif sayi girmediniz");
+            System.out.println("You have not entered any Negative number");
     }
 }

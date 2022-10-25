@@ -3,8 +3,8 @@ package lessons.l8;
 public class WhileIntro {
     public static void main(String[] args) {
         /*
-            while (<kosul>) // true
-                <deyim>
+            while (<condition>) // true
+                <statements>
          */
 
         int count = 0;

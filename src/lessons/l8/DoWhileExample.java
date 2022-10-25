@@ -1,9 +1,8 @@
 package lessons.l8;
 
 /*
-       Parametresi ile aldığı int türden bir sayının basamak sayısını döndüren countDigits isimli metodu
-	 NumberUtil isimli sınıf içerisinde yazınız ve aşağıdaki kod ile test ediniz
-  */
+	 Write a method named countDigits that will take an int argument and returns total digits count.
+*/
 
 public class DoWhileExample {
     public static void main(String[] args)
@@ -18,7 +17,7 @@ public class DoWhileExample {
         System.out.println("Number:");
         int val = kb.nextInt();
 
-        System.out.printf("%d sayisinin basamak sayisi: %d", val, countDigits(val));
+        System.out.printf("%d -> total digits count: %d", val, countDigits(val));
     }
 
     public static int countDigits(int val)

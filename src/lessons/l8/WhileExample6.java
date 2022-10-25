@@ -1,10 +1,7 @@
 package lessons.l8;
-
 /*
-        Parametresi ile aldığı int türden bir sayının basamakları toplamını döndüren sumDigits isimli
-	 metodu NumberUtil sınıfı içerisinde yazınız ve aşağıdaki kod ile test ediniz. Metot negatif sayılar için basamakları
-	 toplamını pozitif olarak döndürecektir
- */
+	 Write a method named sumDigits that will take an int argument and returns sum of all digits.
+*/
 public class WhileExample6 {
     public static void main(String[] args)
     {
@@ -18,7 +15,7 @@ public class WhileExample6 {
         System.out.println("Number:");
         int val = kb.nextInt();
 
-        System.out.printf("%d basamaklari toplami = %d%n", val, sumDigits(val));
+        System.out.printf("%d -> sum of digits = %d%n", val, sumDigits(val));
     }
 
     public static int sumDigits(int val)

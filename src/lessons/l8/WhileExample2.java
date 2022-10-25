@@ -5,7 +5,7 @@ public class WhileExample2 {
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
 
-        System.out.print("Kac defa donmek istiyorsunuz:");
+        System.out.print("How many times you want to loop through:");
         int n = kb.nextInt();
 
         System.out.println("----------");
