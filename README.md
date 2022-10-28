@@ -15,3 +15,4 @@
 |6|`16.10.2022`|Conditional Statements|[Lesson 6](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l6)|If/Else statements, `&&` (AND) and `\|\|` (OR) logical operators, boolean expressions, ternary operator and their usage |
 |7|`18.10.2022`|Method Introduction|[Lesson 7](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l7)|Method introduction, using methods with arguments and return types of methods|
 |8|`23.10.2022`|while/ do-while|[Lesson 8](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l8)|while/ do-while introduction and examples|
+|9|`29.10.2022`|for|[Lesson 9](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/l9)|for introduction and examples|
