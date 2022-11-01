@@ -3,7 +3,7 @@ package lessons.l9;
 public class BreakIntro {
     public static void main(String[] args)
     {
-       // Klavyeden 0 girilene kadar girilen butun degerlerin toplamini bulan program ?
+       // finds the sum of all values entered until 0 is entered from the input ?
 
         java.util.Scanner kb = new java.util.Scanner(System.in);
 
@@ -19,7 +19,6 @@ public class BreakIntro {
 
             sum += val;
         }
-
         System.out.printf("sum: %d%n", sum);
     }
 }

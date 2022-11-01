@@ -12,7 +12,6 @@ public class LabeledBreak {
                     break EXIT_LOOP;
             }
 
-
         complexLabeledBreak();
     }
 
