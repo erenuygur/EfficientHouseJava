@@ -16,8 +16,8 @@ public class ForExample5 {
             {i: 1, j: 9}      1 < 5  -> true || -> true
             ....
 
-            {i: 4, j: 6}      4 < 5  -> true || -> true
-            {i: 5, j: 5}      5 < 5  || 5 >= 0 -> false || true -> true
+            {i: 4, j: 6}      (4 < 5)  -> true || -> true
+            {i: 5, j: 5}      (5 < 5) || (5 >= 0) -> (false || true) -> true
          */
     }
 }

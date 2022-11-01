@@ -4,7 +4,7 @@ public class ForExample3 {
     public static void main(String[] args)
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
-        System.out.print("Bir sayi giriniz: ");
+        System.out.print("Number: ");
         int n = kb.nextInt();
 
         int i; // declare

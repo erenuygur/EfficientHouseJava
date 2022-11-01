@@ -4,13 +4,13 @@ public class ForExample1 {
     public static void main(String[] args)
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
-        System.out.println("Bir sayi giriniz: ");
+        System.out.println("Number: ");
         int n = kb.nextInt();
 
         int i = 0;
 
-        for (System.out.println("EFFICIENT HOUSE"); i < n; System.out.println("Abi boolean exp e bakmadan once bunu yaparim")) {
-            System.out.println(i);
+        for (System.out.println("INITIALIZE"); i < n; System.out.println("UPDATE")) {
+            System.out.println("STATEMENT");
             ++i;
         }
         //...

@@ -9,10 +9,10 @@ public class ForExample7 {
     public static void run()
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
-        System.out.print("Bir sayi giriniz:");
+        System.out.print("Number:");
         int val = kb.nextInt();
 
-        System.out.printf("%d. asal sayi: %d", val, getPrime(val));
+        System.out.printf("%d. prime number: %d", val, getPrime(val));
     }
 
     public static int getPrime(int n)

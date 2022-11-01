@@ -3,7 +3,7 @@ package lessons.l9;
 public class ForExample9 {
     public static void main(String[] args)
     {
-        // 3 Basamakli Armstrong sayilarinin ic ice dongu ile bulmak
+        // 3 digits Armstrong number with for loops ;)
 
         for (int a = 1; a <= 9; ++a)
             for (int b = 0; b <= 9; ++b)

@@ -9,14 +9,14 @@ public class ForExample6 {
     public static void run()
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
-        System.out.print("Bir sayi giriniz:");
+        System.out.print("Number:");
         int val = kb.nextInt();
 
 
         if (isPrime(val))
-            System.out.printf("%d. Asal sayidir. ", getPrimeIndex(val));
+            System.out.printf("%d. is prime. ", getPrimeIndex(val));
         else
-            System.out.println("Asal sayi giriniz");
+            System.out.println("please enter the prime number");
     }
 
     public static int getPrimeIndex(int n)
