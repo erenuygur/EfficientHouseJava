@@ -17,9 +17,9 @@ public class StackExample {
         short s; // Stack'te yaratildi
 
         {
-            float f;
+            float f; // Stack'te yaratildi
             {
-                boolean bool;
+                boolean bool; // Stack'te yaratildi
             } // bool stackten yok edilir
         } // f stackten yok edilir
     } // Once s sonra b stackten yok edilir

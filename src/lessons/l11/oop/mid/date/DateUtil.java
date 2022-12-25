@@ -37,15 +37,3 @@ class Date {
     //...
 }
 
-class App {
-    public static void main(String[] args)
-    {
-        Date birthDate;
-
-        birthDate = DateUtil.createDate(12, 9, 1983);
-
-        DateUtil.printDate(birthDate);
-        DateUtil.changeDate(birthDate, 9, 9, 1999);
-        DateUtil.printDate(birthDate);
-    }
-}
