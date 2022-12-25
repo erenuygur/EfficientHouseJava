@@ -3,7 +3,7 @@ package lessons.l11.oop.intro;
 public class Heap {
     public static void main(String[] args)
     {
-        Human eren;
+        Human eren; // reference
         eren = new Human();
 
         System.out.println(eren.age); // 0
@@ -21,7 +21,7 @@ public class Heap {
 }
 
 class Human {
-    int age;
-    float height;
-    float weight;
+    public int age;
+    public float height;
+    public float weight;
 }
