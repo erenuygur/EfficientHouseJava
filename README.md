@@ -14,7 +14,6 @@
      
 </details>
 
----
 
 <details>
      <summary><h2>Operators</h2></summary>
@@ -30,7 +29,6 @@
 
 </details>
 
----
 
 <details>
      <summary><h2>Expression and Assigment</h2></summary>
@@ -39,7 +37,6 @@
      
 </details>
 
----
 </details>
 
 
