@@ -1,4 +1,5 @@
-<h1 align="center" >EFFICIENT HOUSE</h1>
+<h1 align="center" ></h1>
+
 
 <!--########################################################################################################################-->
 <!-- JAVA LANGUAGE BASİCS -->
@@ -9,22 +10,21 @@
 <details>
      <summary><h2>Primitive Types</h2></summary>
    
-### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br>
+### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br>
      
 </details>
 
 ---
 
-<!--BENİ YAZ-->
 <details>
-     <summary><h2>Operators </h2></summary>
+     <summary><h2>Operators</h2></summary>
    
-### [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> 
+### [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java) </br>
       
 <details>
-     <summary><h2>Operators Example</h2></summary>
+     <summary><h3>Operators Example</h3></summary>
    
-### [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> 
+#### 🔸 [Example ❶](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java) </br> 
      
 </details>
 
@@ -32,16 +32,14 @@
 
 ---
 
-<!--BENİ YAZ-->
 <details>
      <summary><h2>Expression and Assigment</h2></summary>
    
-### [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br>
+### [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java) </br> 
      
 </details>
 
 ---
-</details>
 </details>
 
 
@@ -54,40 +52,45 @@
      <summary align="center" ><h1>Java Consol Input and Output</h1></summary>
 
 <details>
-     <summary><h2>Primitive Types</h2></summary>
+     <summary><h2>String Intro</h2></summary>
    
-### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br>
+### [String Class](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/StringClass.java) </br> 
+     
+<details>
+     <summary><h3>String Methods</h3></summary>
+   
+#### 🔸 [CharAt](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/ChartAt.java)
+#### 🔸 [CompareTo](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/CompareTo.java)  
+#### 🔸 [Equals](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/Equals.java)  
+#### 🔸 [Immutable](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/Immutable.java)  
+#### 🔸 [IndexOf](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/IndexOf.java)  
+#### 🔸 [Length](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/Length.java)  
+#### 🔸 [SubString](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/SubString.java)
+#### 🔸 [Trim](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/Trim.java)  
+#### 🔸 [UpperLowerCase](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/UpperLower.java)      
+     
+</details>
      
 </details>
 
 ---
 
-<!--BENİ YAZ-->
 <details>
-     <summary><h2> Operators </h2></summary>
+     <summary><h2>Print Methods</h2></summary>
    
-### [Operatorsd](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> 
-      
-
-<details>
-     <summary><h2> Operators Example </h2></summary>
-   
-### [Operators Example](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> 
-     
-</details>
+### [Print Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l4/PrintMethods.java) </br> 
 
 </details>
 
 ---
 
-<!--BENİ YAZ-->
 <details>
-     <summary><h2>Expression and Assigment</h2></summary>
+     <summary><h2>Scanner Class</h2></summary>
    
-### [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> 
+### [Scanner Class](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l5/ScannerClass.java) </br> 
      
 </details>
 
 ---
 </details>
-</details>
+
