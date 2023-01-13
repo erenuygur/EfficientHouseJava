@@ -5,12 +5,15 @@
 <!-- JAVA LANGUAGE BASİCS -->
 
 <details>
+     <summary align="center" ><h1>Java SE</h1></summary>
+
+<details>
      <summary align="center" ><h1>Java Language Basics</h1></summary>
 
 <details>
      <summary><h2>Primitive Types</h2></summary>
    
-### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br>
+### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)
      
 </details>
 
@@ -18,12 +21,12 @@
 <details>
      <summary><h2>Operators</h2></summary>
    
-### [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java) </br>
+### [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java)
       
 <details>
      <summary><h3>Operators Example</h3></summary>
    
-#### 🔸 [Example ❶](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java) </br> 
+#### 🔸 [Example ❶](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java) 
      
 </details>
 
@@ -33,7 +36,7 @@
 <details>
      <summary><h2>Expression and Assigment</h2></summary>
    
-### [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java) </br> 
+### [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java)
      
 </details>
 
@@ -90,4 +93,4 @@
 
 ---
 </details>
-
+</details>
