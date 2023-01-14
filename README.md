@@ -1,13 +1,13 @@
 <div>
-<h1 align="center">ＪＡＶＡ 🆂🅴 <img align="left" width="140" height="140" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="right" width="165" height="165" src="https://r.resimlink.com/Zsmd682fyh.png"/> </h1>
+<h1 align="center">ＪＡＶＡ 🆂🅴 <img align="left" width="180" height="180" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="right" width="212" height="210" src="https://r.resimlink.com/HtbJj07Cxkyr.png"/> </h1>
 </div>
 
-### <h3 align="center"> **Code implementation and exercises from _Absolute Java_ book**.</h3></br></br>
+### <h3 align="center"> **Code implementation and exercises from _Absolute Java_ book**.</h3> </br> </br> </br>
 
 ---
 
 <!--########################################################################################################################-->
-<!-- JAVA LANGUAGE BASİCS -->
+                                               <!-- JAVA LANGUAGE BASİCS -->
 
 
 <details>
@@ -47,7 +47,7 @@
 
 
 <!--########################################################################################################################-->
-<!-- JAVA CONSOL İNPUT OUTPUT -->
+                                             <!-- JAVA CONSOL İNPUT OUTPUT -->
 
 <details>
      <summary align="left" ><h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
@@ -102,7 +102,7 @@
 
 
 <!--########################################################################################################################-->
-<!-- JAVA BRANCHING MECHANISM -->
+                                             <!-- JAVA BRANCHING MECHANISM -->
 
 <details>
      <summary align="left" ><h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
@@ -181,7 +181,7 @@
 
 
 <!--########################################################################################################################-->
-<!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
+                                        <!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
      <summary align="left" ><h1>𝗟𝗼𝗼𝗽𝘀</h1></summary>
@@ -257,7 +257,7 @@
 
 
 <!--########################################################################################################################-->
-<!--JAVA METHODS -->
+                                                    <!--JAVA METHODS -->
 
 <details>
      <summary align="left" ><h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
@@ -313,24 +313,62 @@
 
 
 <!--########################################################################################################################-->
-<!--JAVA OOP (Object Oriented Programming) -->
+                                        <!--JAVA OOP (Object Oriented Programming) -->
 
 <details>
      <summary align="left" ><h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
      
 <details>
-     <summary><h2>OOP Intro</h2></summary>
+     <summary><h2>Intro</h2></summary>
  
-###  💠 [Beni Doldur](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)       
-          
+###  💠 [User Defined Type](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/UserDefinedType.java)
+     
+###  💠 [Class Members](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/ClassMembers.java)         
+    
+###  💠 [Cast](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/Cast.java)
+      
+###  💠 [Defaults](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/Defaults.java)     
+
+<details>     
+     <summary><h3>Intro Examples</h3></summary>
+     
+#### 🔸 [Example - Ⅰ ](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/Example1.java)     
+
+</details>
+     
+<details>     
+     <summary><h3>Stack - Heap</h3></summary>
+     
+####  💠 [Stack](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/StackExample.java)
+     
+####  💠 [Heap](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/intro/Heap.java) 
+     
+</details>
+     
 </details>          
 
      
 <details>
-     <summary><h2>OOP Mid</h2></summary>
+     <summary><h2>Mid</h2></summary>
  
-###  💠 [Beni Doldur](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)       
+###  💠 [Two Reference One Instance](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/TwoReferenceOneInstance.java)       
           
+<details>     
+     <summary><h3>Mid Examples</h3></summary>
+     
+#### 🔸 [Example - Ⅰ ](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/Example.java)          
+
+<details>     
+     <summary><h3>DateUtil Examples</h3></summary>
+
+#### 🔸 [Example - Ⅰ ](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/Tricky.java)         
+ 
+#### 🔸 [Example - Ⅱ ](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/date/DateUtil.java)              
+     
+</details>     
+
+</details>
+     
 </details>          
      
 </details>
