@@ -1,6 +1,10 @@
 <div>
-<h1 align="left">ＪＡＶＡ 🆂🅴  <img align="center" width="90" height="90" src="https://r.resimlink.com/F8ZyR.png"/> </h1>
+<h1 align="left">ＪＡＶＡ 🆂🅴  <img align="center" width="140" height="140" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="right" width="140" height="140" src="https://r.resimlink.com/Zsmd682fyh.png"/> </h1>
 </div>
+
+### **Code implementation and exercises from _Absolute Java_ book**.
+
+---
 
 <!--########################################################################################################################-->
 <!-- JAVA LANGUAGE BASİCS -->
@@ -177,10 +181,10 @@
 
 
 <!--########################################################################################################################-->
-<!-- FOR - WHİLE - DO WHİLE LOOPS -->  
+<!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
-     <summary align="left" ><h1>𝗙𝗼𝗿 - 𝗪𝗵𝗶𝗹𝗲 - 𝗗𝗼 𝗪𝗵𝗶𝗹𝗲 𝗟𝗼𝗼𝗽𝘀</h1></summary>
+     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗙𝗼𝗿 - 𝗪𝗵𝗶𝗹𝗲 - 𝗗𝗼 𝗪𝗵𝗶𝗹𝗲 𝗟𝗼𝗼𝗽𝘀</h1></summary>
      
 <details>
      <summary><h2>For Intro</h2></summary>
@@ -246,5 +250,87 @@
 </details>
      
 </details>
+     
+</details>
+
+
+
+
+<!--########################################################################################################################-->
+<!--JAVA METHODS -->
+
+<details>
+     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
+     
+<details>
+     <summary><h2>Methods Intro</h2></summary>
+
+###  💠 [Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)      
+
+<details>
+     <summary><h3>Methods Examples</h3></summary>
+
+#### 🔸 [Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntroExample.java)
+     
+</details>     
+     
+</details>
+
+     
+<details>
+     <summary><h3>Method Calling</h3></summary>
+     
+####  💠 [Method Calling](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodCalling.java)    
+     
+</details>
+    
+     
+<details>
+     <summary><h3>Method with Parameters</h3></summary>
+     
+####  💠 [Method with Parameters](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodsWithParameters.java)    
+     
+</details>       
+     
+     
+<details>
+     <summary><h3>Void Type Methods</h3></summary>
+     
+####  💠 [Void Type Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/VoidTypeMethods.java)    
+     
+</details>  
+     
+
+<details>
+     <summary><h3>Return Type Methods</h3></summary>
+     
+####  💠 [Return Type Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/ReturnTypeMethods.java)    
+     
+</details>      
+
+</details>
+
+
+
+<!--########################################################################################################################-->
+<!--JAVA OOP (Object Oriented Programming) -->
+
+<details>
+     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
+     
+<details>
+     <summary><h2>OOP Intro</h2></summary>
+ 
+###  💠 [Beni Doldur](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)       
+          
+</details>          
+
+     
+<details>
+     <summary><h2>OOP Mid</h2></summary>
+ 
+###  💠 [Beni Doldur](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)       
+          
+</details>          
      
 </details>
