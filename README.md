@@ -1,8 +1,8 @@
 <div>
-<h1 align="left">ＪＡＶＡ 🆂🅴  <img align="center" width="140" height="140" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="right" width="140" height="140" src="https://r.resimlink.com/Zsmd682fyh.png"/> </h1>
+<h1 align="center">ＪＡＶＡ 🆂🅴 <img align="left" width="140" height="140" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="right" width="165" height="165" src="https://r.resimlink.com/Zsmd682fyh.png"/> </h1>
 </div>
 
-### **Code implementation and exercises from _Absolute Java_ book**.
+### <h3 align="center"> **Code implementation and exercises from _Absolute Java_ book**.</h3></br></br>
 
 ---
 
@@ -11,7 +11,7 @@
 
 
 <details>
-     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
+     <summary align="left" ><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
 
 <details>
      <summary><h2>Primitive Types</h2></summary>
@@ -50,10 +50,10 @@
 <!-- JAVA CONSOL İNPUT OUTPUT -->
 
 <details>
-     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
+     <summary align="left" ><h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
 
 <details>
-     <summary><h2>String Intro</h2></summary>
+     <summary><h2>String</h2></summary>
    
 ###  💠 [String Class](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/StringClass.java)
      
@@ -105,7 +105,7 @@
 <!-- JAVA BRANCHING MECHANISM -->
 
 <details>
-     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
+     <summary align="left" ><h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
   
 <details>
      <summary><h2>If - Else</h2></summary>   
@@ -184,12 +184,12 @@
 <!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
-     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗙𝗼𝗿 - 𝗪𝗵𝗶𝗹𝗲 - 𝗗𝗼 𝗪𝗵𝗶𝗹𝗲 𝗟𝗼𝗼𝗽𝘀</h1></summary>
+     <summary align="left" ><h1>𝗟𝗼𝗼𝗽𝘀</h1></summary>
      
 <details>
-     <summary><h2>For Intro</h2></summary>
+     <summary><h2>For</h2></summary>
      
-###  💠 [For](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/ForIntro.java)    
+###  💠 [For Intro](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/ForIntro.java)    
 
 <details>
      <summary><h3>For Examples</h3></summary>
@@ -210,9 +210,9 @@
      
      
 <details>
-     <summary><h2>While Intro</h2></summary>
+     <summary><h2>While</h2></summary>
      
-###  💠 [While](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l8/WhileIntro.java)    
+###  💠 [While Intro](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l8/WhileIntro.java)    
 
 <details>
      <summary><h3>While Examples</h3></summary>
@@ -238,9 +238,9 @@
 
      
 <details>
-     <summary><h2>Do While Intro</h2></summary>
+     <summary><h2>Do While</h2></summary>
      
-###  💠 [Do While](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l8/DoWhileIntro.java)    
+###  💠 [Do While Intro](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l8/DoWhileIntro.java)    
 
 <details>
      <summary><h3>Do While Examples</h3></summary>
@@ -260,12 +260,12 @@
 <!--JAVA METHODS -->
 
 <details>
-     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
+     <summary align="left" ><h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
      
 <details>
-     <summary><h2>Methods Intro</h2></summary>
+     <summary><h2>Methods</h2></summary>
 
-###  💠 [Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)      
+###  💠 [Methods Intro](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)      
 
 <details>
      <summary><h3>Methods Examples</h3></summary>
@@ -316,7 +316,7 @@
 <!--JAVA OOP (Object Oriented Programming) -->
 
 <details>
-     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
+     <summary align="left" ><h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
      
 <details>
      <summary><h2>OOP Intro</h2></summary>
