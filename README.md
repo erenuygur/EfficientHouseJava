@@ -1,12 +1,13 @@
-<h1 align="left">ＪＡＶＡ 🆂🅴</h1>
-<img width="100" >https://r.resimlink.com/F8ZyR.png</img>
+<div>
+<h1 align="left">ＪＡＶＡ 🆂🅴  <img align="center" width="90" height="90" src="https://r.resimlink.com/F8ZyR.png"/> </h1>
+</div>
 
 <!--########################################################################################################################-->
 <!-- JAVA LANGUAGE BASİCS -->
 
 
 <details>
-     <summary align="center" ><h1>𝗝𝗮𝘃𝗮 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
+     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
 
 <details>
      <summary><h2>Primitive Types</h2></summary>
@@ -45,7 +46,7 @@
 <!-- JAVA CONSOL İNPUT OUTPUT -->
 
 <details>
-     <summary align="center" ><h1>𝗝𝗮𝘃𝗮 𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
+     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
 
 <details>
      <summary><h2>String Intro</h2></summary>
@@ -100,7 +101,7 @@
 <!-- JAVA BRANCHING MECHANISM -->
 
 <details>
-     <summary align="center" ><h1>𝗝𝗮𝘃𝗮 𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
+     <summary align="left" ><h1>𝗝𝗮𝘃𝗮 𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
   
 <details>
      <summary><h2>If - Else</h2></summary>   
@@ -176,10 +177,10 @@
 
 
 <!--########################################################################################################################-->
-<!-- JAVA BRANCHING MECHANISM -->  
+<!-- FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
-     <summary align="center" ><h1>𝗙𝗼𝗿 - 𝗪𝗵𝗶𝗹𝗲 - 𝗗𝗼 𝗪𝗵𝗶𝗹𝗲 𝗟𝗼𝗼𝗽𝘀</h1></summary>
+     <summary align="left" ><h1>𝗙𝗼𝗿 - 𝗪𝗵𝗶𝗹𝗲 - 𝗗𝗼 𝗪𝗵𝗶𝗹𝗲 𝗟𝗼𝗼𝗽𝘀</h1></summary>
      
 <details>
      <summary><h2>For Intro</h2></summary>
