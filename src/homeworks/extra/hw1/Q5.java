@@ -11,16 +11,16 @@ public class Q5 {
         java.util.Scanner kb = new java.util.Scanner(System.in);
 
         while (true) {
-            System.out.print("Sayi giriniz:");
+            System.out.print("number:");
             long l = kb.nextLong();
 
             if (l == 0)
                 return;
 
             if (isPrime(l))
-                System.out.printf("%d sayisi asaldir%n", l);
+                System.out.printf("%d is prime %n", l);
             else
-                System.out.printf("%d sayisi asal degildir%n", l);
+                System.out.printf("%d is not prime%n", l);
         }
     }
 
