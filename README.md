@@ -25,6 +25,12 @@
      <summary><h3>Operators</h3></summary>
    
 ##### 💠 [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java)
+
+##### 💠 [And Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/AndOperators.java)    
+
+##### 💠 [Or Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/OrOperators.java)    
+
+##### 💠 [Ternary Operator ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/TernaryOperator.java)   
       
 <details>
      <summary><h4>Operators Examples</h4></summary>
@@ -134,35 +140,7 @@
           
 </details> 
              
-<details>
-     <summary><h3>And - Or - Ternary Operators</h3></summary>     
-
-##### 💠 [And Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/AndOperators.java)    
-##### 💠 [Or Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/OrOperators.java)    
-##### 💠 [Ternary Operator ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/TernaryOperator.java)         
-     
-</details>         
-     
 </details>   
-
-     
-<details>
-     <summary><h3>Continue - Break</h3></summary>        
-     
-##### 💠 [Continue ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l10/ContinueExample.java)
-     
-##### 💠 [Break ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/Break.java)
-     
-##### 💠 [Labeled Break ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/LabeledBreak.java) 
-     
-<details>
-     <summary><h4>Break Examples</h4></summary>
-
-###### 🔸 [Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/BreakIntro.java)
-
-</details>
-     
-</details>     
 
      
 <details>
@@ -259,6 +237,25 @@
 </details>
      
 </details>
+
+
+<details>
+     <summary><h3>Continue - Break</h3></summary>        
+     
+##### 💠 [Continue ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l10/ContinueExample.java)
+     
+##### 💠 [Break ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/Break.java)
+     
+##### 💠 [Labeled Break ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/LabeledBreak.java) 
+     
+<details>
+     <summary><h4>Break Examples</h4></summary>
+
+###### 🔸 [Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l9/BreakIntro.java)
+
+</details>
+     
+</details>     
      
 ---     
      
