@@ -362,12 +362,9 @@
 <details>
      <summary><h3>Mid</h3></summary>
  
-##### 💠 [Two Reference One Instance](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/TwoReferenceOneInstance.java)       
-          
-<details>     
-     <summary><h4>Mid Examples</h4></summary>
-     
-###### 🔸 [Example - Ⅰ ](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/Example.java)          
+##### 💠 [Two Reference One Instance](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/TwoReferenceOneInstance.java)
+
+##### 💠 [References and Object ](https://github.com/NumanKartall/EfficientHouseJava/blob/main/src/lessons/l11/oop/mid/Example.java)   
 
 <details>     
      <summary><h4>DateUtil Examples</h4></summary>
@@ -378,9 +375,7 @@
      
 </details>     
 
-</details>
-     
-</details>          
+</details>         
  
 ---     
      
