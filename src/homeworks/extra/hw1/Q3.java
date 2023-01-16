@@ -10,7 +10,7 @@ public class Q3 {
     {
         java.util.Scanner keyboard = new java.util.Scanner(System.in);
 
-        System.out.println("Bir sayi giriniz");
+        System.out.println("number: ");
         int val = keyboard.nextInt();
 
         System.out.println(signum(val));

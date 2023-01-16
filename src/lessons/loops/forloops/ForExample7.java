@@ -1,6 +1,6 @@
-package homeworks.extra.hw1;
+package lessons.loops.forloops;
 
-public class Q5 {
+public class ForExample7 {
     public static void main(String[] args)
     {
         run();
@@ -9,18 +9,25 @@ public class Q5 {
     public static void run()
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
+        System.out.print("Number:");
+        int val = kb.nextInt();
+
+        System.out.printf("%d. prime number: %d", val, getPrime(val));
+    }
+
+    public static int getPrime(int n)
+    {
+        int val = 2;
+        int count = 0;
 
         while (true) {
-            System.out.print("number:");
-            long l = kb.nextLong();
+            if (isPrime(val))
+                ++count;
 
-            if (l == 0)
-                return;
+            if (count == n)
+                return val;
 
-            if (isPrime(l))
-                System.out.printf("%d is prime %n", l);
-            else
-                System.out.printf("%d is not prime%n", l);
+            val++;
         }
     }
 
