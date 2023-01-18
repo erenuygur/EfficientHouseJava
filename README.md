@@ -10,7 +10,7 @@
 <!-- JAVA LANGUAGE BASİCS -->
 
 <details>
-     <summary align="center" ><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
+     <summary align="center"><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
  
  ---
  
