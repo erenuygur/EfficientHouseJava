@@ -1,11 +1,10 @@
 
 <div>
-<h1 align="center">ＪＡＶＡ 🆂🅴 <img align="left" width="160" height="160" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="right" width="182" height="180" src="https://r.resimlink.com/HtbJj07Cxkyr.png"/> </h1>
+<h1 align="center">ＪＡＶＡ 🆂🅴 </br> <img align="center" width="160" height="160" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="center" width="182" height="180" src="https://r.resimlink.com/HtbJj07Cxkyr.png"/> </h1>
 </div>
 
 ### <h3 align="center"> **Code implementation and exercises from _Absolute Java_ book**.</h3> </br> </br> </br>
 
----
 
 <!--########################################################################################################################-->
 <!-- JAVA LANGUAGE BASİCS -->
