@@ -10,6 +10,6 @@ public class Example3 {
 
     public void changeXWithNonstatic(int a)
     {
-
+        x = a;
     }
 }
