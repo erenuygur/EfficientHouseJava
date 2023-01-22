@@ -17,7 +17,7 @@
 <details>
      <summary> <h3>Primitive Types</h3></summary>
    
-#####       💠 [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)
+#####    💠 [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)
 
 </details>
 
@@ -25,18 +25,18 @@
 <details>
      <summary> <h3>Operators</h3></summary>
    
-#####       💠 [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java)
+#####    💠 [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java)
 
-#####       💠 [And Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/AndOperators.java)    
+#####    💠 [And Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/AndOperators.java)    
 
-#####       💠 [Or Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/OrOperators.java)    
+#####    💠 [Or Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/OrOperators.java)    
 
-#####       💠 [Ternary Operator ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/TernaryOperator.java)   
+#####    💠 [Ternary Operator ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/TernaryOperator.java)   
       
 <details>
-     <summary>     <h4>Operators Examples</h4></summary>
+     <summary>  <h4>Operators Examples</h4></summary>
    
-######          🔸 [Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java) 
+#####      🔸[Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java)
      
 </details>
 
@@ -45,7 +45,7 @@
 <details>
      <summary> <h3>Expression and Assigment</h3></summary>
    
-#####       💠 [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java)
+#####    💠 [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java)
      
 </details>
      
