@@ -10,42 +10,42 @@
 <!-- JAVA LANGUAGE BASİCS -->
 
 <details>
-     <summary align="center" ><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
+     <summary align="left" ><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
  
  ---
  
 <details>
-     <summary > <h3>Primitive Types</h3></summary>
+     <summary> <h3>Primitive Types</h3></summary>
    
-#####     💠 [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)
+#####       💠 [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)
 
 </details>
 
 
 <details>
-     <summary><h3> Operators</h3></summary>
+     <summary> <h3>Operators</h3></summary>
    
-#####     💠 [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java)
+#####       💠 [Operators](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/Operators.java)
 
-#####     💠 [And Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/AndOperators.java)    
+#####       💠 [And Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/AndOperators.java)    
 
-#####     💠 [Or Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/OrOperators.java)    
+#####       💠 [Or Operators ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/OrOperators.java)    
 
-#####     💠 [Ternary Operator ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/TernaryOperator.java)   
+#####       💠 [Ternary Operator ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l6/TernaryOperator.java)   
       
 <details>
-     <summary>   <h4>Operators Examples</h4></summary>
+     <summary>     <h4>Operators Examples</h4></summary>
    
-######       🔸 [Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java) 
+######          🔸 [Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/OperatorsExample.java) 
      
 </details>
 
 </details>
 
 <details>
-     <summary><h3> Expression and Assigment</h3></summary>
+     <summary> <h3>Expression and Assigment</h3></summary>
    
-#####     💠 [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java)
+#####       💠 [Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java)
      
 </details>
      
@@ -60,7 +60,7 @@
 <!-- JAVA CONSOL İNPUT OUTPUT -->
 
 <details>
-     <summary align="center" ><h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
+     <summary align="left" ><h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
 
 <details>
      <summary><h3>String</h3></summary>
@@ -118,7 +118,7 @@
 <!-- JAVA BRANCHING MECHANISM -->
 
 <details>
-     <summary align="center" ><h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
+     <summary align="left" ><h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
   
 <details>
      <summary><h3>If - Else</h3></summary>   
@@ -172,7 +172,7 @@
 <!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
-     <summary align="center" ><h1>𝗟𝗼𝗼𝗽𝘀</h1></summary>
+     <summary align="left" ><h1>𝗟𝗼𝗼𝗽𝘀</h1></summary>
      
 <details>
      <summary><h3>For</h3></summary>
@@ -269,7 +269,7 @@
 <!--JAVA METHODS -->
 
 <details>
-     <summary align="center" ><h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
+     <summary align="left" ><h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
      
 <details>
      <summary><h3>Methods</h3></summary>
@@ -328,7 +328,7 @@
 <!--JAVA OOP (Object Oriented Programming) -->
 
 <details>
-     <summary align="center" ><h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
+     <summary align="left" ><h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
      
 <details>
      <summary><h3>Intro</h3></summary>
