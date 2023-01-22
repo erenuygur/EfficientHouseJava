@@ -21,6 +21,13 @@
 
 </details>
 
+<details>
+     <summary> <h3>Primitive Types</h3></summary>
+   
+#####       💠 [Primitive Types](http://127.0.0.1:5500/tutorials.html)
+
+</details>
+
 
 <details>
      <summary> <h3>Operators</h3></summary>
