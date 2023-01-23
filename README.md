@@ -15,6 +15,7 @@
 
 
 
+
 <!--########################################################################################################################-->
 <!-- JAVA LANGUAGE BASİCS -->
 
@@ -23,12 +24,24 @@
  
  ---
  
+ |#|**Date**|**Topic**|**Exercises**|**Context**|      
+|-|--------|---------|-------------|-----------|      
+|1|`23.09.2022`|Primitive Types|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+ 
+ 
 <details>
      <summary> <h3>Primitive Types</h3></summary>
    
    |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
 |1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+
+</details>
+
+<details>
+     <summary> <h3>Primitive Types</h3></summary>
+   
+#####       💠 [Primitive Types](http://127.0.0.1:5500/tutorials.html)
 
 </details>
 
