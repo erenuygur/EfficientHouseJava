@@ -1,9 +1,15 @@
 
 <div>
-<h1 align="center">ＪＡＶＡ 🆂🅴 </br> <img align="center" width="160" height="160" src="https://r.resimlink.com/F8ZyR.png"/>  <img align="center" width="182" height="180" src="https://r.resimlink.com/HtbJj07Cxkyr.png"/> </h1>
+<img align="center" width="140" height="140" src="https://r.resimlink.com/F8ZyR.png"/>
+
+<img align="center"  border-radius="40%" width="110" height="110" src="https://r.resimlink.com/jz9AEUhl8.jpg"/>
+</div>
+<h1><img align="center"src="https://r.resimlink.com/M9mQaA.png"/></h1> 
+<h1 align="center">ＪＡＶＡ 🆂🅴 </br> </h1>
 </div>
 
 ### <h3 align="center"> **Code implementation and exercises from _Absolute Java_ book**.</h3> </br> </br> </br>
+
 
 
 <!--########################################################################################################################-->
@@ -13,6 +19,11 @@
      <summary align="left" ><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
  
  ---
+ 
+ |#|**Date**|**Topic**|**Exercises**|**Context**|      
+|-|--------|---------|-------------|-----------|      
+|1|`23.09.2022`|Primitive Types|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+ 
  
 <details>
      <summary> <h3>Primitive Types</h3></summary>
