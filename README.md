@@ -1,9 +1,9 @@
 **<div align="left"></div>** 
 
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg"/>
+<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg"/>
 
 
-<div><h1 align="left">Efficient House's ＪＡＶＡ 🆂🅴   </h1></div>
+<div><h1 align="left">Efficient House's⠀ＪＡＶＡ 🆂🅴   </h1></div>
 
 
 
