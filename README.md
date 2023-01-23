@@ -1,5 +1,4 @@
-
- **<div align="left"></div>** 
+**<div align="left"></div>** 
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg"/>
 
@@ -24,9 +23,7 @@
  
  ---
  
- |#|**Date**|**Topic**|**Exercises**|**Context**|      
-|-|--------|---------|-------------|-----------|      
-|1|`23.09.2022`|Primitive Types|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+
  
  
 <details>
@@ -38,12 +35,7 @@
 
 </details>
 
-<details>
-     <summary> <h3>Primitive Types</h3></summary>
-   
-#####       💠 [Primitive Types](http://127.0.0.1:5500/tutorials.html)
 
-</details>
 
 
 <details>
