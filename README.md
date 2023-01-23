@@ -28,7 +28,7 @@
    
    |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
-|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
 
 </details>
 
