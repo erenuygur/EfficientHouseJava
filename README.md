@@ -2,13 +2,7 @@
 
 <img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg"/>
 
-
 <div><h1 align="left">Efficient House's⠀ＪＡＶＡ 🆂🅴   </h1></div>
-
-
-
-
-
 
 ### <h3 align="left"></h3> </br> </br> </br>
 
@@ -22,26 +16,21 @@
      <summary align="left" ><h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
  
  ---
- 
-
- 
- 
+  
 <details>
      <summary> <h3>Primitive Types</h3></summary>
    
-   |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
-|-|--------|---------|-------------|-----------|      
+|#|**Date Range**|**Topic**|**Lesson's Codes**|**Context**|**Tutorials**|      
+|-|--------|---------|-------------|-----------|-----------|      
 |1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
 
 </details>
 
 
-
-
 <details>
      <summary> <h3>Operators</h3></summary>
      
-|#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
+|#|**Date Range**|**Topic**|**Lesson's Codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
 |1|`01.10.2022 - 02.10.2022`|[Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 2](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/Operators.java)|Operators Lesseons| 
 |2|`08.10.2022 - 09.10.2022`|[And Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/AndOperators.java)|And operator lessons With Deynekci Hodjas| 
@@ -54,21 +43,18 @@
 |#|**Date Range**|**Topic**|    
 |-|--------|---------|    
 |1|`01.10.2022 - 23.10.2022`|[**Operator examples**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OperatorsExample.java)|
-
-
      
 </details>
 
 </details>
 
+     
 <details>
      <summary> <h3>Expression and Assigment</h3></summary>
      
-
 |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
 |1|`29.10.2022 - 30.10.2022`|[Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 6](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/ExpressionsAndAssignment.java)|Expressions And Assignment lesson context| 
-
      
 </details>
      
@@ -88,7 +74,9 @@
 <details>
      <summary><h3>String</h3></summary>
    
-##### 💠 [String Class](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/StringClass.java)
+|#|**Date Range**|**Topic**|**Lesson's Codes**|**Context**|      
+|-|--------|---------|-------------|-----------|      
+|1|`05.11.2022 - 06.11.2022`| [String Class](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l3/string/StringClass.java)
      
 <details>
      <summary><h3>String Methods</h3></summary>
