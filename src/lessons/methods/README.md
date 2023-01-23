@@ -1,1 +1,0 @@
-# Samet Kula
