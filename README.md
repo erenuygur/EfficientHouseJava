@@ -28,7 +28,7 @@
    
    |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
-|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+|1|`23.09.2022-25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
 
 </details>
 
@@ -38,17 +38,17 @@
      
 |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
-|1|`01.10.2022 - 02.10.2022`|[Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 2](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/Operators.java)|Operators Lesseons| 
-|2|`08.10.2022 - 09.10.2022`|[And Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/AndOperators.java)|And operator lessons With Deynekci Hodjas| 
-|3|`15.10.2022 - 16.10.2022`|[Or Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OrOperators.java)|Or operators| 
-|4|`22.10.2022 - 23.10.2022`|[Ternary Operator](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/TernaryOperator.java)|Ternary operators| 
+|1|`01.10.2022-02.10.2022`|[Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 2](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/Operators.java)|Operators Lesseons| 
+|2|`08.10.2022-09.10.2022`|[And Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/AndOperators.java)|And operator lessons With Deynekci Hodjas| 
+|3|`15.10.2022-16.10.2022`|[Or Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OrOperators.java)|Or operators| 
+|4|`22.10.2022-23.10.2022`|[Ternary Operator](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/TernaryOperator.java)|Ternary operators| 
      
 <details>
      <summary>  <h4>Operators Examples</h4></summary>
   
 |#|**Date Range**|**Topic**|    
 |-|--------|---------|    
-|1|`01.10.2022 - 23.10.2022`|[**Operator examples**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OperatorsExample.java)|
+|1|`01.10.2022-23.10.2022`|[**Operator examples**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OperatorsExample.java)|
 
 
      
@@ -62,7 +62,7 @@
 
 |#|**Date Range**|**Topic**|**Lesson's codes**|**Context**|      
 |-|--------|---------|-------------|-----------|      
-|1|`29.10.2022 - 30.10.2022`|[Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 6](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/ExpressionsAndAssignment.java)|Expressions And Assignment lesson context| 
+|1|`29.10.2022-30.10.2022`|[Expression and Assigment](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 6](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/ExpressionsAndAssignment.java)|Expressions And Assignment lesson context| 
 
      
 </details>
