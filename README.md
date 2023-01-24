@@ -22,7 +22,7 @@
    
 |#|**Date Range**|**Topic**|**Lesson's Codes**|
 |-|-----------|---------|-------------|      
-|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)
+|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>
 
