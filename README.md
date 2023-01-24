@@ -20,9 +20,9 @@
 <details>
      <summary> <h3>Primitive Types</h3></summary>
    
-|#|**Date Range**|**Topic**|**Lesson's Codes**|**Context**|**Tutorials**|      
-|-|-----------|---------|-------------|-----------|-----------|      
-|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)|Primitive Types: byte, short, int, long, float, double| 
+|#|**Date Range**|**Topic**|**Lesson's Codes**|
+|-|-----------|---------|-------------|      
+|1|`23.09.2022 - 25.09.2022`|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics#user-content-merhama-burası-language-basics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java)
 
 </details>
 
@@ -30,19 +30,20 @@
 <details>
      <summary> <h3>Operators</h3></summary>
      
-|#|**Date Range**|**Topic**|**Lesson's Codes**|**Context**|      
-|-|--------|---------|-------------|-----------|      
-|1|`01.10.2022 - 02.10.2022`|[Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 2](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/Operators.java)|Operators Lesseons| 
-|2|`08.10.2022 - 09.10.2022`|[And Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/AndOperators.java)|And operator lessons With Deynekci Hodjas| 
-|3|`15.10.2022 - 16.10.2022`|[Or Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OrOperators.java)|Or operators| 
-|4|`22.10.2022 - 23.10.2022`|[Ternary Operator](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/TernaryOperator.java)|Ternary operators| 
+|#|**Date Range**|**Topic**|**Lesson's Codes**|      
+|-|--------|---------|-------------|    
+|1|<h5>01.10.2022 - 02.10.2022</h5>|[Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 2](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/Operators.java) 
+|2|`08.10.2022 - 09.10.2022`|[And Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/AndOperators.java) 
+|3|`15.10.2022 - 16.10.2022`|[Or Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OrOperators.java) 
+|4|`22.10.2022 - 23.10.2022`|[Ternary Operator](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/TernaryOperator.java)
+     
      
 <details>
      <summary>  <h4>Operators Examples</h4></summary>
   
 |#|**Date Range**|**Topic**|    
 |-|--------|---------|    
-|1|`01.10.2022 - 23.10.2022`|[**Operator examples**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OperatorsExample.java)|
+|1|`01.10.2022 - 23.10.2022`|[**Operator examples**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OperatorsExample.java)
      
 </details>
 
