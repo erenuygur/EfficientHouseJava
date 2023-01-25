@@ -217,10 +217,10 @@
 
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
-|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample.java)
-|2️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample2.java)
-|3️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample3.java)
-|4️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample4.java)
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample.java#L1)
+|2️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample2.java#L1)
+|3️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample3.java#L1)
+|4️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample4.java#L1)
 </details>
 
 <details>
@@ -247,10 +247,10 @@
 
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
-|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample.java)
-|2️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample2.java)
-|3️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/MenuApp.java)
-|4️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/LeapYear.java)     
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample.java#L1)
+|2️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample2.java#L1)
+|3️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/MenuApp.java#L1)
+|4️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/LeapYear.java#L1)     
 
 </details>
      
@@ -301,7 +301,7 @@
 
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
-|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntroExample.java)
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntroExample.java#L1)
      
 </details>     
      
