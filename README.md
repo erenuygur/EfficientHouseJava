@@ -247,10 +247,10 @@
 
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
-|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l10/SwitchExample.java)
-|2️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l10/SwitchExample2.java)
-|3️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l10/MenuApp.java)
-|4️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l10/LeapYear.java)     
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample.java)
+|2️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample2.java)
+|3️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/MenuApp.java)
+|4️⃣|`12.11.2022 - 13.11.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/LeapYear.java)     
 
 </details>
      
@@ -292,12 +292,16 @@
 <details>
      <summary> <h3>Methods</h3></summary>
 
-[Methods Intro](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntro.java)      
+|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|-|-----------|---------|-------------|      
+|1️⃣|`23.09.2022 - 25.09.2022`|[Methods Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)      
 
 <details>
      <summary> <h4>Methods Examples</h4></summary>
 
-[Example - Ⅰ ](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodIntroExample.java)
+|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|-|--------|---------|    
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntroExample.java)
      
 </details>     
      
@@ -307,7 +311,9 @@
 <details>
      <summary> <h3>Method Calling</h3></summary>
      
-[Method Calling](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodCalling.java)    
+|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|-|-----------|---------|-------------|      
+|1️⃣|`23.09.2022 - 25.09.2022`|[Method Calling](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)    
      
 </details>
     
@@ -315,7 +321,9 @@
 <details>
      <summary> <h3>Method with Parameters</h3></summary>
      
-[Method with Parameters](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/MethodsWithParameters.java)    
+|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|-|-----------|---------|-------------|      
+|1️⃣|`23.09.2022 - 25.09.2022`|[Method with Parameters](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)    
      
 </details>       
      
@@ -323,7 +331,9 @@
 <details>
      <summary> <h3>Void Type Methods</h3></summary>
      
-[Void Type Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/VoidTypeMethods.java)    
+|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|-|-----------|---------|-------------|      
+|1️⃣|`23.09.2022 - 25.09.2022`|[Void Type Methods](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)    
      
 </details>  
      
@@ -331,7 +341,9 @@
 <details>
      <summary> <h3>Return Type Methods</h3></summary>
      
-[Return Type Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l7/ReturnTypeMethods.java)    
+|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|-|-----------|---------|-------------|      
+|1️⃣|`23.09.2022 - 25.09.2022`|[Return Type Methods](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)    
      
 </details>      
 
