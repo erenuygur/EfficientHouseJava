@@ -543,9 +543,9 @@
      
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |-|-----------|---------|-------------|      
-|1️⃣|`23.09.2022 - 25.09.2022`|[Stack](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java)
+|1️⃣|`23.09.2022 - 25.09.2022`|[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java)
      
-|2️⃣|`12.11.2022 - 13.11.2022`|[Heap](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java) 
+|2️⃣|`12.11.2022 - 13.11.2022`|[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java) 
      
 </details>
      
