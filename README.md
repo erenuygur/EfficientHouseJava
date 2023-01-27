@@ -511,7 +511,7 @@
    
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types][Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
