@@ -478,7 +478,7 @@
 
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
-|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/Break.java)
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/Break.java#L1)
 
 </details>
      
@@ -534,7 +534,7 @@
      
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
-|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Example1.java)     
+|1️⃣|`01.10.2022 - 23.10.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Example1.java#L1)     
 
 </details>
      
@@ -543,9 +543,8 @@
      
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |-|-----------|---------|-------------|      
-|1️⃣|`23.09.2022 - 25.09.2022`|[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java)
-     
-|2️⃣|`12.11.2022 - 13.11.2022`|[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java) 
+|1️⃣|`23.09.2022 - 25.09.2022`|[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java#L1)
+|2️⃣|`12.11.2022 - 13.11.2022`|[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java#L1) 
      
 </details>
      
