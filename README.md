@@ -26,11 +26,11 @@
 <!-- JAVA LANGUAGE BASİCS TUTORİALS -->     
      
 <details>
-     <summary> <h3>Language Basics Tutorial</h3></summary>
+     <summary> <h3>Language Basics Tutorials</h3></summary>
      
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Language Basics Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
@@ -102,11 +102,11 @@
 <!-- JAVA CONSOL İNPUT OUTPUT TUTORİALS -->       
      
 <details>
-     <summary> <h3>Consol Input and Output Tutorial</h3></summary>
+     <summary> <h3>Consol Input and Output Tutorials</h3></summary>
    
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Consol Input and Output Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>      
 
@@ -198,7 +198,7 @@
    
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Branching Mechanism Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>
      
@@ -282,7 +282,7 @@
    
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Methods Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
@@ -374,7 +374,7 @@
    
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Loops Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
@@ -511,7 +511,7 @@
    
 |#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
 |-|---------|-------------|      
-|1️⃣|[Primitive Types](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 1](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[OOP Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
