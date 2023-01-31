@@ -4,14 +4,11 @@
 
 <img align="right" width="120" height="120" src="https://r.resimlink.com/oUTlSC4i.png"/>
 
-<div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀ＪＡＶＡ 🆂🅴</h1></div>
+<div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀ ＪＡＶＡ 🆂🅴</h1></div>
 
 ### <h3 align="left"></h3> </br> </br> </br>
 
 <!-- THIS IS HEADER END-->
-
-
-
 
 
 
@@ -388,6 +385,7 @@
 |-|-----------|---------|-------------|      
 |1️⃣|`17.12.2022 - 18.12.2022`|[For Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 27](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForIntro.java#L1)     
 
+
 <details>
      <summary> <h4>For Examples</h4></summary>
 
@@ -451,6 +449,7 @@
 |-|-----------|---------|-------------|      
 |1️⃣|`24.12.2022 - 25.12.2022`|[Do While Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 30](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileIntro.java#L1)             
 
+
 <details>
      <summary> <h4>Do While Examples</h4></summary>
 
@@ -499,12 +498,14 @@
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) -->
 
+
 <details>
      <summary align="left"> <h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
 
 ---
      
 <!-- JAVA OOP TUTORİALS -->
+
 
 <details>
      <summary> <h3>OOP Tutorials</h3></summary>
@@ -644,7 +645,6 @@
 
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) END -->
-
 
 
 <!--TO BE CONTİUNED-->
