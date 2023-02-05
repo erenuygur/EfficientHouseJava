@@ -16,7 +16,7 @@
 <!-- JAVA LANGUAGE BASİCS -->
 
 <details>
-     <summary align="left"> <h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
+     <summary align="left"> <h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀 😃</h1></summary>
  
  ---
 
@@ -92,7 +92,7 @@
 <!-- JAVA CONSOL İNPUT OUTPUT -->
 
 <details>
-     <summary align="left"> <h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
+     <summary align="left"> <h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁 😄</h1></summary>
 
 ---     
 
@@ -184,7 +184,7 @@
 <!-- JAVA BRANCHING MECHANISM -->
 
 <details>
-     <summary align="left"> <h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
+     <summary align="left"> <h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺 🙃</h1></summary>
 
 ---     
    
@@ -268,7 +268,7 @@
 <!--JAVA METHODS -->
 
 <details>
-     <summary align="left"> <h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
+     <summary align="left"> <h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀 😐</h1></summary>
 
 ---
      
@@ -360,7 +360,7 @@
 <!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
-     <summary align="left"> <h1>𝗟𝗼𝗼𝗽𝘀</h1></summary>
+     <summary align="left"> <h1>𝗟𝗼𝗼𝗽𝘀 😶</h1></summary>
 
 ---
      
@@ -500,7 +500,7 @@
 
 
 <details>
-     <summary align="left"> <h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
+     <summary align="left"> <h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴) 😬</h1></summary>
 
 ---
      
