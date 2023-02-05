@@ -4,7 +4,7 @@
 
 <img align="right" width="120" height="120" src="https://r.resimlink.com/oUTlSC4i.png"/>
 
-<div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀ＪＡＶＡ 🆂🅴</h1></div>
+<div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀ ＪＡＶＡ 🆂🅴</h1></div>
 
 ### <h3 align="left"></h3> </br> </br> </br>
 
@@ -12,14 +12,11 @@
 
 
 
-
-
-
 <!--########################################################################################################################-->
 <!-- JAVA LANGUAGE BASİCS -->
 
 <details>
-     <summary align="left"> <h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀</h1></summary>
+     <summary align="left"> <h1>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗕𝗮𝘀𝗶𝗰𝘀 😃</h1></summary>
  
  ---
 
@@ -95,7 +92,7 @@
 <!-- JAVA CONSOL İNPUT OUTPUT -->
 
 <details>
-     <summary align="left"> <h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁</h1></summary>
+     <summary align="left"> <h1>𝗖𝗼𝗻𝘀𝗼𝗹 𝗜𝗻𝗽𝘂𝘁 𝗮𝗻𝗱 𝗢𝘂𝘁𝗽𝘂𝘁 😄</h1></summary>
 
 ---     
 
@@ -187,7 +184,7 @@
 <!-- JAVA BRANCHING MECHANISM -->
 
 <details>
-     <summary align="left"> <h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺</h1></summary>
+     <summary align="left"> <h1>𝗕𝗿𝗮𝗻𝗰𝗵𝗶𝗻𝗴 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺 🙃</h1></summary>
 
 ---     
    
@@ -271,7 +268,7 @@
 <!--JAVA METHODS -->
 
 <details>
-     <summary align="left"> <h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀</h1></summary>
+     <summary align="left"> <h1>𝗠𝗲𝘁𝗵𝗼𝗱𝘀 😐</h1></summary>
 
 ---
      
@@ -363,7 +360,7 @@
 <!--JAVA FOR - WHİLE - DO WHİLE LOOPS -->  
 
 <details>
-     <summary align="left"> <h1>𝗟𝗼𝗼𝗽𝘀</h1></summary>
+     <summary align="left"> <h1>𝗟𝗼𝗼𝗽𝘀 😶</h1></summary>
 
 ---
      
@@ -387,6 +384,7 @@
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |-|-----------|---------|-------------|      
 |1️⃣|`17.12.2022 - 18.12.2022`|[For Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 27](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForIntro.java#L1)     
+
 
 <details>
      <summary> <h4>For Examples</h4></summary>
@@ -451,6 +449,7 @@
 |-|-----------|---------|-------------|      
 |1️⃣|`24.12.2022 - 25.12.2022`|[Do While Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 30](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileIntro.java#L1)             
 
+
 <details>
      <summary> <h4>Do While Examples</h4></summary>
 
@@ -499,12 +498,14 @@
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) -->
 
+
 <details>
-     <summary align="left"> <h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴)</h1></summary>
+     <summary align="left"> <h1>𝗢𝗢𝗣 (𝗢𝗯𝗷𝗲𝗰𝘁 𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴) 😬</h1></summary>
 
 ---
      
 <!-- JAVA OOP TUTORİALS -->
+
 
 <details>
      <summary> <h3>OOP Tutorials</h3></summary>
@@ -547,30 +548,31 @@
 |1️⃣|`14.01.2023 - 15.01.2023`|[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java#L1)
 |2️⃣|`14.01.2023 - 15.01.2023`|[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java#L1) 
      
-</details>
-     
-</details>          
+</details>      
 
      
 <details>
-     <summary> <h3>Mid</h3></summary>
+     <summary> <h3>References and Object</h3></summary>
  
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |-|-----------|---------|-------------|      
 |1️⃣|`14.01.2023 - 15.01.2023`|[Two Reference One Instance](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 40](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/TwoReferenceOneInstance.java#L1) 
-|2️⃣|`14.01.2023 - 15.01.2023`|[References and Object ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 41](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/ReferanceAndObject.java#L1)    
+|2️⃣|`14.01.2023 - 15.01.2023`|[References and Object](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 41](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/ReferanceAndObject.java#L1)    
 
      
 <details>     
-     <summary> <h4>Mid Examples</h4></summary>
+     <summary> <h4>References and Object Examples</h4></summary>
 
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
 |1️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/Tricky.java#L1)         
-|2️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/date/DateUtil.java#L1)        |3️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/point/Point.java#L1)
-|4️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/EquationSolver.java#L1)     
+|2️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/date/DateUtil.java#L1)       
+|3️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/EquationSolver.java#L1)  
+|4️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/point/Point.java#L1) 
 </details>     
 
+</details>
+  
   
 <details>     
      <summary> <h3>Statics</h3></summary>     
@@ -606,7 +608,8 @@
 |#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |-|--------|---------|    
 |1️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example.java#L1)            
-|2️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example1.java#L1)        |3️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example2.java#L1)
+|2️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example1.java#L1)        
+|3️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example2.java#L1)
 |4️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example3.java#L1)     
 
 </details>         
@@ -631,6 +634,8 @@
 |2️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example1.java#L1)        
 |3️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example2.java#L1)
 |4️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/CoinSimulationApp.java#L1)     
+|5️⃣|`02.02.2023 - 03.02.2023`|[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/SameTwoDiceAppSimple.java#L1)
+|6️⃣|`02.02.2023 - 03.02.2023`|[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Seed.java#L1)
 
 </details>         
      
@@ -639,12 +644,11 @@
 </details>         
      
 ---     
-     
-</details>
+
+</details>    
 
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) END -->
-
 
 
 <!--TO BE CONTİUNED-->
