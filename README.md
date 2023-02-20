@@ -2,7 +2,7 @@
 
 **<div align="left"></div>** 
 
-<img align="right" width="150" height="150" src="https://r.resimlink.com/35Uznr.gif"/>
+<img align="right" width="180" height="180" src="https://r.resimlink.com/KLoxD.gif"/>
 
 <div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀ ＪＡＶＡ 🆂🅴</h1></div>
 
