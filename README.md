@@ -28,7 +28,7 @@
 <details>
      <summary> <h3>Language Basics Tutorials</h3></summary></br>
      
-|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 📚|
 |--------|      
 |[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Language Basics Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
@@ -164,8 +164,8 @@
 <details>
      <summary> <h3>Consol Input and Output Tutorials</h3></summary>
    
-|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
-|---------|--------|      
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 📚|
+|--------|      
 |[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Consol Input and Output Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>      
@@ -295,7 +295,7 @@
 <details>
      <summary> <h3>Branching Mechanism Tutorials</h3></summary>
    
-|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 📚|
 |-------------|      
 [THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Branching Mechanism Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
@@ -420,7 +420,7 @@
 <details>
      <summary> <h3>Methods Tutorials</h3></summary>
    
-|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 📚|
 |-------------|      
 [THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Methods Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
@@ -580,7 +580,7 @@
 <details>
      <summary> <h3>Loops Tutorials</h3></summary>
    
-|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 📚|
 |------------|      
 [THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Loops Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
@@ -793,7 +793,7 @@
 <details>
      <summary> <h3>OOP Tutorials</h3></summary>
    
-|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 📚|
 |-------------|      
 [THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[OOP Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
