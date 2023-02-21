@@ -2,13 +2,16 @@
 
 **<div align="left"></div>** 
 
-<img align="right" width="180" height="180" src="https://r.resimlink.com/KLoxD.gif"/>
+<img align="right" width="170" height="170" src="https://r.resimlink.com/KLoxD.gif"/>
 
-<div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀ ＪＡＶＡ 🆂🅴</h1></div>
+</br>
+
+<div><h1 align="left">Eꜰꜰɪᴄɪᴇɴᴛ Hᴏᴜsᴇ⠀  ＪＡＶＡ 🅢🅔</h1></div>
 
 ### <h3 align="left"></h3> </br> </br> </br>
 
 <!-- THIS IS HEADER END-->
+
 
 
 
@@ -37,7 +40,6 @@
 <details>
      <summary> <h3>Primitive Types</h3></summary>
   
-  
 <h5>
 
 |𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
@@ -55,7 +57,6 @@
 
 <details>
      <summary> <h3>Operators</h3></summary>
-
 
 <h5>
 
@@ -419,9 +420,9 @@
 <details>
      <summary> <h3>Methods Tutorials</h3></summary>
    
-|#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
-|-|---------|-------------|      
-|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Methods Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|-------------|      
+[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Methods Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
@@ -431,16 +432,32 @@
 <details>
      <summary> <h3>Methods</h3></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`03.12.2022 - 04.12.2022`|[Methods Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 22](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntro.java#L1)                    
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|03.12.2022 ➖ 04.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Methods Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 22](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntro.java#L1)                    
 
 <details>
      <summary> <h4>Methods Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`03.12.2022 - 04.12.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntroExample.java#L1)
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|03.12.2022 ➖ 04.12.2022|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntroExample.java#L1)
      
 </details>     
      
@@ -449,45 +466,97 @@
      
 <details>
      <summary> <h3>Method Calling</h3></summary>
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`03.12.2022 - 04.12.2022`|[Method Calling](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 23](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodCalling.java#L1)                  
+ 
+<h5> 
+ 
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|03.12.2022 ➖ 04.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Method Calling](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 23](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodCalling.java#L1)                  
      
 </details>
     
      
 <details>
      <summary> <h3>Method with Parameters</h3></summary>
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`03.12.2022 - 04.12.2022`|[Method with Parameters](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 24](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodsWithParameters.java#L1)                  
+ 
+<h5> 
+ 
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎| 
+|-----------|
+|03.12.2022 ➖ 04.12.2022|
+
+</h5>
+ 
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Method with Parameters](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 24](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodsWithParameters.java#L1)                  
      
 </details>       
      
      
 <details>
      <summary> <h3>Void Type Methods</h3></summary>
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`03.12.2022 - 04.12.2022`|[Void Type Methods](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 25](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/VoidTypeMethods.java#L1)                  
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|03.12.2022 ➖ 04.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Void Type Methods](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 25](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/VoidTypeMethods.java#L1)                  
      
 </details>  
      
 
 <details>
      <summary> <h3>Return Type Methods</h3></summary>
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|10.12.2022 ➖ 11.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Return Type Methods](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 26](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/ReturnTypeMethods.java#L1)                  
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`10.12.2022 - 11.12.2022`|[Return Type Methods](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 26](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/ReturnTypeMethods.java#L1)                  
+</details>      
+   
+
+<details>
+     <summary> <h3>Methods Overloading</h3></summary>
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|18.02.2023 ➖ 19.02.2023|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Methods Overloading](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 27](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/methodoverloading/MethodOverloading.java#L1)                  
      
 </details>      
 
 ---     
      
+</details>
+
 </details>
 
 <!--########################################################################################################################-->
@@ -511,9 +580,9 @@
 <details>
      <summary> <h3>Loops Tutorials</h3></summary>
    
-|#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
-|-|---------|-------------|      
-|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Loops Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|------------|      
+[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Loops Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
@@ -523,25 +592,41 @@
 <details>
      <summary> <h3>For</h3></summary>
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`17.12.2022 - 18.12.2022`|[For Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 27](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForIntro.java#L1)     
+<h5> 
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|17.12.2022 ➖ 18.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[For Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 28](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForIntro.java#L1)     
 
 
 <details>
      <summary> <h4>For Examples</h4></summary>
+     
+<h5>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`17.12.2022 - 28.12.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample1.java#L1)
-|2️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample2.java#L1)
-|3️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample3.java#L1)
-|4️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample4.java#L1)
-|5️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample5.java#L1)
-|6️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample6.java#L1)
-|7️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅶ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample7.java#L1)
-|8️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅷ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample8.java#L1)   
-|9️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅸ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample9.java#L1)  
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|    
+|17.12.2022 ➖ 28.12.2022|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample1.java#L1)
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample2.java#L1)
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample3.java#L1)
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample4.java#L1)
+[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample5.java#L1)
+[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample6.java#L1)
+[Example **- Ⅶ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample7.java#L1)
+[Example **- Ⅷ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample8.java#L1)   
+[Example **- Ⅸ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample9.java#L1)  
 
 </details>
      
@@ -550,24 +635,40 @@
      
 <details>
      <summary> <h3>While</h3></summary>
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`24.12.2022 - 25.12.2022`|[While Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 28](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileIntro.java#L1)     
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|24.12.2022 ➖ 25.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[While Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 29](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileIntro.java#L1)     
     
 
 <details>
      <summary> <h4>While Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample.java#L1)
-|2️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample2.java#L1)
-|3️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample3.java#L1)
-|4️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample4.java#L1)
-|5️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample5.java#L1)
-|6️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample6.java#L1)
-|7️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅶ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample7.java#L1)
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|24.12.2022 ➖ 25.12.2022|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample.java#L1)
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample2.java#L1)
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample3.java#L1)
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample4.java#L1)
+[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample5.java#L1)
+[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample6.java#L1)
+[Example **- Ⅶ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample7.java#L1)
      
 </details>
    
@@ -575,9 +676,17 @@
 <details>
      <summary> <h3>Infinity Loops</h3></summary>
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`24.12.2022 - 25.12.2022`|[Infinity Loops](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 29](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/InfinityLoopWithWhile.java#L1)         
+<h5> 
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎| 
+|-----------|
+|24.12.2022 ➖ 25.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Infinity Loops](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 30](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/InfinityLoopWithWhile.java#L1)         
      
 </details>       
      
@@ -587,17 +696,33 @@
 <details>
      <summary> <h3>Do While</h3></summary>
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`24.12.2022 - 25.12.2022`|[Do While Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 30](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileIntro.java#L1)             
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|24.12.2022 ➖ 25.12.2022|
+
+</h5> 
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Do While Intro](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 31](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileIntro.java#L1)             
 
 
 <details>
      <summary> <h4>Do While Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`24.12.2022 - 25.12.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileExample.java#L1)
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|24.12.2022 ➖ 25.12.2022|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileExample.java#L1)
      
 </details>
      
@@ -606,20 +731,36 @@
 
 <details>
      <summary> <h3>Continue - Break</h3></summary>        
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`17.12.2022 - 18.12.2022`|[Continue ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 31](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/ContinueExample.java#L1)             
-|2️⃣|`17.12.2022 - 18.12.2022`|[Break ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 32](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/BreakIntro.java#L1)         
-|3️⃣|`17.12.2022 - 18.12.2022`|[Labeled Break ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 33](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/LabeledBreak.java#L1)          
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|17.12.2022 ➖ 18.12.2022|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Continue ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 32](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/ContinueExample.java#L1)             
+[Break ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 33](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/BreakIntro.java#L1)         
+[Labeled Break ](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/loops)|[Lesson 34](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/LabeledBreak.java#L1)          
 
      
 <details>
      <summary> <h4>Break Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`17.12.2022 - 18.12.2022`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/Break.java#L1)
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|17.12.2022 ➖ 18.12.2022|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/Break.java#L1)
 
 </details>
      
@@ -652,9 +793,9 @@
 <details>
      <summary> <h3>OOP Tutorials</h3></summary>
    
-|#|𝗧𝗼𝗽𝗶𝗰|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
-|-|---------|-------------|      
-|1️⃣|[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[OOP Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
+|𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀|
+|-------------|      
+[THIS IS SPACE](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[OOP Tutorials](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/PrimitiveTypes.java#L1)
 
 </details>     
 
@@ -663,21 +804,37 @@
      
 <details>
      <summary> <h3>Intro</h3></summary>
- 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`07.01.2023 - 08.01.2023`|[User Defined Type](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 34](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/UserDefinedType.java#L1)             
-|2️⃣|`08.01.2023 - 08.01.2023`|[Class Members](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 35](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/ClassMembers.java#L1)          
-|3️⃣|`08.01.2023 - 08.11.2023`|[Cast](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 36](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Cast.java#L1)              
-|4️⃣|`08.01.2023 - 08.01.2023`|[Defaults](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 37](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Defaults.java#L1)          
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|07.01.2023 ➖ 08.01.2023|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[User Defined Type](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 35](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/UserDefinedType.java#L1)             
+[Class Members](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 36](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/ClassMembers.java#L1)          
+[Cast](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 37](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Cast.java#L1)              
+[Defaults](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Defaults.java#L1)          
      
 
 <details>     
      <summary> <h4>Intro Examples</h4></summary>
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`07.01.2023 - 08.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Example1.java#L1)     
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎| 
+|----------|
+|07.01.2023 ➖ 08.01.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Example1.java#L1)     
 
 </details>
     
@@ -685,10 +842,18 @@
 <details>     
      <summary> <h3>Stack - Heap</h3></summary>
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`14.01.2023 - 15.01.2023`|[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java#L1)
-|2️⃣|`14.01.2023 - 15.01.2023`|[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java#L1) 
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎| 
+|-----------|
+|14.01.2023 ➖ 15.01.2023|
+
+</h5> 
+ 
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java#L1)
+[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 40](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java#L1) 
      
 </details>      
 
@@ -696,21 +861,38 @@
 <details>
      <summary> <h3>References and Object</h3></summary>
  
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`14.01.2023 - 15.01.2023`|[Two Reference One Instance](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 40](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/TwoReferenceOneInstance.java#L1) 
-|2️⃣|`14.01.2023 - 15.01.2023`|[References and Object](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 41](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/ReferanceAndObject.java#L1)    
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|14.01.2023 ➖ 15.01.2023|
+
+</h5>
+ 
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Two Reference One Instance](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 41](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/TwoReferenceOneInstance.java#L1) 
+[References and Object](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 42](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/ReferanceAndObject.java#L1)    
 
      
 <details>     
      <summary> <h4>References and Object Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/Tricky.java#L1)         
-|2️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/date/DateUtil.java#L1)       
-|3️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/EquationSolver.java#L1)  
-|4️⃣|`07.01.2023 - 15.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/point/Point.java#L1) 
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|07.01.2023 ➖ 15.01.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/Tricky.java#L1)         
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/date/DateUtil.java#L1)       
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/EquationSolver.java#L1)  
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/point/Point.java#L1) 
+
 </details>     
 
 </details>
@@ -718,18 +900,34 @@
   
 <details>     
      <summary> <h3>Statics</h3></summary>     
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`21.01.2023 - 22.01.2023`|[Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 42](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/Intro.java#L1)      
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|21.01.2023 ➖ 22.01.2023|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 43](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/Intro.java#L1)      
 
      
 <details>     
      <summary> <h4>Statics Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/GameApp.java#L1)            
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|21.01.2023 ➖ 22.01.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/GameApp.java#L1)            
 
 </details>         
      
@@ -738,21 +936,37 @@
 
 <details>     
      <summary> <h3>Non-Statics</h3></summary>     
-     
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`21.01.2023 - 22.01.2023`|[Non-Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 43](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Intro.java#L1)      
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|21.01.2023 ➖ 22.01.2023|
+
+</h5>
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Non-Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 44](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Intro.java#L1)      
 
      
 <details>     
      <summary> <h4>Non-Statics Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example.java#L1)            
-|2️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example1.java#L1)        
-|3️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example2.java#L1)
-|4️⃣|`21.01.2023 - 22.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example3.java#L1)     
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|21.01.2023 ➖ 22.01.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example.java#L1)           
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example1.java#L1)        
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example2.java#L1)
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example3.java#L1)     
 
 </details>         
      
@@ -760,24 +974,52 @@
 
      
 <details>     
-     <summary> <h3>Random Class</h3></summary>     
+     <summary> <h3>Random Class</h3></summary>   
      
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
-|-|-----------|---------|-------------|      
-|1️⃣|`27.01.2023 - 28.01.2023`|[Random Class](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 44](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Intro.java#L1)      
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|27.01.2023 ➖ 28.01.2023|
+
+</h5> 
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Random Class](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 45](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Intro.java#L1)      
 
      
 <details>     
      <summary> <h4>Random Class Examples</h4></summary>
 
-|#|𝗗𝗮𝘁𝗮 𝗥𝗮𝗻𝗴𝗲|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
-|-|--------|---------|    
-|1️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example.java#L1)           
-|2️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example1.java#L1)        
-|3️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example2.java#L1)
-|4️⃣|`27.01.2023 - 28.01.2023`|[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/CoinSimulationApp.java#L1)     
-|5️⃣|`02.02.2023 - 03.02.2023`|[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/SameTwoDiceAppSimple.java#L1)
-|6️⃣|`02.02.2023 - 03.02.2023`|[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Seed.java#L1)
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|27.01.2023 ➖ 28.01.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example.java#L1)           
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example1.java#L1)        
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example2.java#L1)
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/CoinSimulationApp.java#L1)
+
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
+|-----------|
+|02.02.2023 ➖ 03.02.2023|
+
+</h5>
+
+|𝗦𝗲𝗲𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|---------| 
+[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/SameTwoDiceAppSimple.java#L1)
+[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Seed.java#L1)
 
 </details>         
      
@@ -791,6 +1033,5 @@
 
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) END -->
-
 
 <!--TO BE CONTİUNED-->
