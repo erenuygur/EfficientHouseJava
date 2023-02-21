@@ -113,7 +113,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |--------|   
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OperatorsExample.java#L1)
      
@@ -262,7 +262,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/consolio/ScannerExamples.java#L1)
 
@@ -330,7 +330,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample.java#L1)
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/ifelse/IfElseExample2.java#L1)
@@ -385,7 +385,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample.java#L1)
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/flowcontrol/switchcase/SwitchExample2.java#L1)
@@ -455,7 +455,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/MethodIntroExample.java#L1)
      
@@ -616,7 +616,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample1.java#L1)
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/forloops/ForExample2.java#L1)
@@ -660,7 +660,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample.java#L1)
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/whileloops/WhileExample2.java#L1)
@@ -720,7 +720,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/dowhileloops/DoWhileExample.java#L1)
      
@@ -758,7 +758,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/loops/Break.java#L1)
 
@@ -832,7 +832,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Example1.java#L1)     
 
@@ -886,7 +886,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/Tricky.java#L1)         
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/date/DateUtil.java#L1)       
@@ -925,7 +925,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/GameApp.java#L1)            
 
@@ -961,7 +961,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example.java#L1)           
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example1.java#L1)        
@@ -1000,7 +1000,7 @@
 
 </h5>
 
-|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
 [Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example.java#L1)           
 [Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example1.java#L1)        
@@ -1018,7 +1018,7 @@
 
 </h5>
 
-|𝗦𝗲𝗲𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
+|𝗦𝗲𝗲𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------| 
 [Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/SameTwoDiceAppSimple.java#L1)
 [Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Seed.java#L1)
