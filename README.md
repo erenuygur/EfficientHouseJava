@@ -1007,7 +1007,9 @@
 [Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example2.java#L1)
 [Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/CoinSimulationApp.java#L1)
 
+</br> </br>     
 
+     
 <h5>
 
 |𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎|
@@ -1015,8 +1017,6 @@
 |02.02.2023 ➖ 03.02.2023|
 
 </h5>
-
-</br> </br>
 
 |𝗦𝗲𝗲𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |---------| 
@@ -1032,6 +1032,7 @@
 ---     
 
 </details>    
+
 
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) END -->
