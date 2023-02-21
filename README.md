@@ -1016,6 +1016,8 @@
 
 </h5>
 
+</br> </br>
+
 |𝗦𝗲𝗲𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀|    
 |---------| 
 [Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/SameTwoDiceAppSimple.java#L1)
