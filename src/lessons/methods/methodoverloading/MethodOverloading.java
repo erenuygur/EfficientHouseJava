@@ -4,25 +4,25 @@ public class MethodOverloading {
 
     public static void main(String[] args) {
 
-        // Sample Method for see to explanation method and candidates
-        System.out.println("Efficient House");
-
-        // When methods 1, 2 are written
-        lessons.methods.methodoverloading.MyMethods.foo(5, 5);
-
-        // lessons.methods.methodoverloading.MethodOverloading.foo(5,5); -> reaching with source path
-        MyMethods.foo(5, 5);
-        MyMethods.foo(5, 5.0);
-
-        // When YourMethod class was written
-
-        // YourMethods yourMethod = new YourMethods();
-        // yourMethod.foo(5,5); -> There is no OVERLOADING
-
-        // When methods 1, 2, 3, 4 are written
-        MyMethods myMethod = new MyMethods();
-        myMethod.foo(5.5, 5);
-        myMethod.foo(5, 5);
+//        // Sample Method for see to explanation method and candidates
+//        System.out.println("Efficient House");
+//
+//        // When methods 1, 2 are written
+//        lessons.methods.methodoverloading.MyMethods.foo(5, 5);
+//
+//        // lessons.methods.methodoverloading.MethodOverloading.foo(5,5); -> reaching with source path
+//        MyMethods.foo(5, 5);
+//        MyMethods.foo(5, 5.0);
+//
+//        // When YourMethod class was written
+//
+//        // YourMethods yourMethod = new YourMethods();
+//        // yourMethod.foo(5,5); -> There is no OVERLOADING
+//
+//        // When methods 1, 2, 3, 4 are written
+//        MyMethods myMethod = new MyMethods();
+//        myMethod.foo(5.5, 5);
+//        myMethod.foo(5, 5);
 
         // When just 7, 8, 9 methods are written (AMBIGUITY)
         short s = 5;

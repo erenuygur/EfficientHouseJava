@@ -3,8 +3,28 @@ package lessons.methods.methodoverloading;
 public class Example2 {
     public static void main(String[] args)
     {
+         // Over.foo(5, 5); -> Error: Ambiguous method call. Both
+    }
+}
+
+class Over {
+    public static void foo(long l, int i)
+    {
         //...
     }
+
+
+    public static void foo(int i, double d)
+    {
+        //...
+    }
+
+
+    public static void foo(float f, int i)
+    {
+        //...
+    }
+
 }
 
 class Calculator {
