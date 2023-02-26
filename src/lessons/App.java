@@ -8,6 +8,7 @@ import java.util.regex.Pattern;
 public class App {
     public static void main(String[] args)
     {
+
 //        String text = "Hello  hello";
 //
 //        String[] strArray = text.split(" ");
