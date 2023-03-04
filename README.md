@@ -1060,7 +1060,7 @@
 
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[Random Class](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 45](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/constructors/Intro.java#L1)      
+[Constructors](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 46](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/constructors/Intro.java#L1)      
    
 </details>     
 
