@@ -550,6 +550,25 @@
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
 [Methods Overloading](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/methods)|[Lesson 27](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/methodoverloading/MethodOverloading.java#L1)                  
+
+<details>
+     <summary> <h4>Methods Overloading Examples</h4></summary>
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎 📅|
+|-----------|
+|25.02.2023 ➖ 26.02.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
+|---------|    
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/methodoverloading/Example1.java#L1)
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/methods/methodoverloading/Example2.java#L1)     
+     
+</details>     
+          
      
 </details>      
 
@@ -803,7 +822,7 @@
      
      
 <details>
-     <summary> <h3>Intro</h3></summary>
+     <summary> <h3>Basics</h3></summary>
 
 <h5>
 
@@ -815,14 +834,14 @@
 
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[User Defined Type](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 35](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/UserDefinedType.java#L1)             
-[Class Members](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 36](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/ClassMembers.java#L1)          
-[Cast](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 37](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Cast.java#L1)              
-[Defaults](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Defaults.java#L1)          
+[User Defined Type](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 35](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/UserDefinedType.java#L1)             
+[Class Members](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 36](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/ClassMembers.java#L1)          
+[Cast](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 37](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/Cast.java#L1)              
+[Defaults](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 38](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/Defaults.java#L1)          
      
 
 <details>     
-     <summary> <h4>Intro Examples</h4></summary>
+     <summary> <h4>Basics Examples</h4></summary>
      
 <h5>
 
@@ -834,7 +853,7 @@
 
 |𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
-[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Example1.java#L1)     
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/Example1.java#L1)     
 
 </details>
     
@@ -852,8 +871,8 @@
  
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/StackExample.java#L1)
-[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 40](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/Heap.java#L1) 
+[Stack](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 39](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/StackExample.java#L1)
+[Heap](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 40](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/Heap.java#L1) 
      
 </details>      
 
@@ -871,8 +890,8 @@
  
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[Two Reference One Instance](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 41](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/TwoReferenceOneInstance.java#L1) 
-[References and Object](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 42](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/ReferanceAndObject.java#L1)    
+[Two Reference One Instance](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 41](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/examples/TwoReferenceOneInstance.java#L1) 
+[References and Object](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 42](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/examples/ReferanceAndObject.java#L1)    
 
      
 <details>     
@@ -888,10 +907,10 @@
 
 |𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
-[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/Tricky.java#L1)         
-[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/date/DateUtil.java#L1)       
-[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/EquationSolver.java#L1)  
-[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/examples/point/Point.java#L1) 
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/examples/Tricky.java#L1)         
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/examples/date/DateUtil.java#L1)       
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/examples/EquationSolver.java#L1)  
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/examples/point/Point.java#L1) 
 
 </details>     
 
@@ -911,7 +930,7 @@
 
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 43](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/Intro.java#L1)      
+[Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 43](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/statics/Intro.java#L1)      
 
      
 <details>     
@@ -927,7 +946,7 @@
 
 |𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
-[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/statics/GameApp.java#L1)            
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/statics/GameApp.java#L1)            
 
 </details>         
      
@@ -947,7 +966,7 @@
 
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[Non-Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 44](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Intro.java#L1)      
+[Non-Statics](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 44](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/nonstatics/Intro.java#L1)      
 
      
 <details>     
@@ -963,10 +982,10 @@
 
 |𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
-[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example.java#L1)           
-[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example1.java#L1)        
-[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example2.java#L1)
-[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/nonstatics/Example3.java#L1)     
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/nonstatics/Example.java#L1)           
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/nonstatics/Example1.java#L1)        
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/nonstatics/Example2.java#L1)
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/nonstatics/Example3.java#L1)     
 
 </details>         
      
@@ -986,7 +1005,7 @@
 
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
-[Random Class](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/intro)|[Lesson 45](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Intro.java#L1)      
+[Random Class](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 45](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/Intro.java#L1)      
 
      
 <details>     
@@ -1002,11 +1021,12 @@
 
 |𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------|    
-[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example.java#L1)           
-[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example1.java#L1)        
-[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Example2.java#L1)
-[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/CoinSimulationApp.java#L1)
-
+[Example **- Ⅰ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/Example.java#L1)           
+[Example **- Ⅱ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/Example1.java#L1)        
+[Example **- Ⅲ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/Example2.java#L1)
+[Example **- Ⅳ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/CoinSimulationApp.java#L1)
+[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/SameTwoDiceAppSimple.java#L1)
+     
 </br> </br>     
 
      
@@ -1020,21 +1040,40 @@
 
 |𝗦𝗲𝗲𝗱 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
 |---------| 
-[Example **- Ⅴ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/SameTwoDiceAppSimple.java#L1)
-[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/intro/randomclass/Seed.java#L1)
+[Example **- Ⅵ**](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/randomclass/Seed.java#L1)
 
 </details>         
      
 </details>    
+
+
+<details>     
+     <summary> <h3>Constructors</h3></summary>   
      
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎 📅|
+|-----------|
+|25.02.2023 ➖ 26.02.2023|
+
+</h5> 
+
+|𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
+|---------|-------------|      
+[Constructors](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 46](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/constructors/Intro.java#L1)      
+   
+</details>     
+
 </details>         
-     
+
 ---     
 
 </details>    
 
 
+
 <!--########################################################################################################################-->
 <!--JAVA OOP (Object Oriented Programming) END -->
+
 
 <!--TO BE CONTİUNED-->
