@@ -1045,8 +1045,6 @@
 </details>         
      
 </details>    
-     
-</details>         
 
 
 <details>     
@@ -1065,6 +1063,8 @@
 [Random Class](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 45](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/constructors/Intro.java#L1)      
    
 </details>     
+
+</details>         
 
 ---     
 
