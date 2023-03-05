@@ -1,4 +1,4 @@
-package lessons.oop.basics.constructors;
+package lessons.oop.basics.constructors.intro;
 
 public class Intro {
     public static void main(String[] args)
