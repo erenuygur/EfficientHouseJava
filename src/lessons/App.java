@@ -9,20 +9,21 @@ public class App {
     public static void main(String[] args)
     {
 
-//        String text = "Hello  hello";
-//
-//        String[] strArray = text.split(" ");
-//        System.out.println(strArray);
-//
-//        for (String str : strArray)
-//            System.out.printf("[%s]%n", str);
-//
-//        System.out.println("-------------------------------------");
-//
-//        strArray = text.split(" +");
-//
-//        for (String str : strArray)
-//            System.out.printf("[%s]%n", str);
+
+        String text = "Hello  hello";
+
+        String[] strArray = text.split(" ");
+        System.out.println(strArray);
+
+        for (String str : strArray)
+            System.out.printf("[%s]%n", str);
+
+        System.out.println("-------------------------------------");
+
+        strArray = text.split(" +");
+
+        for (String str : strArray)
+            System.out.printf("[%s]%n", str);
 
         List<String> list = getTokens("one (1), two (2), three (3)", "[a-z]+|[()0-9]+");
 
