@@ -10,7 +10,7 @@
 
 ### <h3 align="left"></h3> </br> </br> </br>
 
-<!-- THIS IS HEADER END-->
+<!-- THIS IS HEADER END.-->
 
 
 
@@ -1061,7 +1061,24 @@
 |𝗧𝗼𝗽𝗶𝗰|𝗟𝗲𝘀𝘀𝗼𝗻'𝘀 𝗖𝗼𝗱𝗲𝘀|
 |---------|-------------|      
 [Constructors](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics)|[Lesson 46](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/oop/basics/constructors/Intro.java#L1)      
+
+<details>     
+     <summary> <h4>Constructors Example</h4></summary>
+
+<h5>
+
+|𝙳𝚊𝚝𝚊 𝚁𝚊𝚗𝚐𝚎 📅|
+|-----------|
+|11.03.2023 ➖ 12.03.2023|
+
+</h5>
+
+|𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 👨‍💻|    
+|---------|    
+[Basic Shopping App](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/oop/basics/constructors/basicshoppingapp)           
    
+</details>      
+
 </details>     
 
 </details>         
