@@ -8,8 +8,6 @@ import java.util.regex.Pattern;
 public class App {
     public static void main(String[] args)
     {
-
-
         String text = "Hello  hello";
 
         String[] strArray = text.split(" ");
@@ -29,6 +27,7 @@ public class App {
 
         for (String str : list)
             System.out.println(str);
+
     }
 
     private static List<String> getTokens(String text, String pattern)
