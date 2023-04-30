@@ -1,20 +1,18 @@
 package lessons.oop.stringexamples;
 
+import java.util.Locale;
+
 public class StringMethods{
+    public static String TRAlphabet = "abcçdefgğhıijklmnoöprsştuüvyz";
+    public static String ENAlphabet = "abcdefghijklmnopqrstuvwxyz";
 
-    public static boolean isPalindrom(String str)
+    public static String capitalize(String str)
     {
-        return str.equals(reversed(str));
-    }
+        int idx;
 
-    public static String reversed(String str)
-    {
-        String result = "";
+        for (idx = 0; idx < str.length() && !Character.isLetter(str.charAt(idx)); ++idx);
 
-        for (int i = str.length() - 1; i >= 0; --i)
-            result += str.charAt(i);
-
-        return result;
+        return str.substring(0, idx) + Character.toUpperCase(str.charAt(idx)) + str.substring(idx + 1).toLowerCase();
     }
 
     public static String concatWithDelimiter(String delimiter)
@@ -54,6 +52,79 @@ public class StringMethods{
             address += ".com";
 
         System.out.println(address);
+    }
+
+    public static String leftPad(String str, int len, char ch)
+    {
+        int length = str.length();
+
+        return length >= len ? str : (ch + "").repeat(len - length) + str;
+    }
+
+    public static String leftPad(String str, int len)
+    {
+        return leftPad(str, len, ' ');
+    }
+
+    public static boolean isPangramEN(String text)
+    {
+        return isPangram(text, ENAlphabet);
+    }
+
+    public static boolean isPangramTR(String text)
+    {
+        return isPangram(text, TRAlphabet);
+    }
+
+    public static boolean isPangram(String text, String alphabet)
+    {
+        String lowerText = text.toLowerCase();
+
+        for (int i = 0; i < alphabet.length(); ++i) {
+            if (!lowerText.contains(alphabet.charAt(i) + ""))
+                return false;
+        }
+
+        return true;
+    }
+
+    public static boolean isPalindrome(String str)
+    {
+        return str.equals(reversed(str));
+    }
+
+
+    public static String reversed(String str)
+    {
+        String result = "";
+
+        for (int i = str.length() - 1; i >= 0; --i)
+            result += str.charAt(i);
+
+        return result;
+    }
+
+    public static String removeAllWhiteSpaces(String str) // It's not best practice
+    {
+        String result = "";
+
+        for (int i = 0; i < str.length(); ++i)
+            if (str.charAt(i) != ' ')
+                result += str.charAt(i);
+
+        return result;
+    }
+
+    public static String rightPad(String str, int len, char ch)
+    {
+        int length = str.length();
+
+        return length >= len ? str : str + (ch + "").repeat(len - length) ;
+    }
+
+    public static String rightPad(String str, int len)
+    {
+        return rightPad(str, len, ' ');
     }
 
 }

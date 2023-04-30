@@ -2,7 +2,7 @@ package lessons.oop.stringexamples;
 
 import lessons.oop.BasicCharacter;
 
-public class App {
+public class BasicCharacterTest {
     public static void main(String[] args)
     {
         // String text = " e 25 f 09  f i  c i 2 e 0  n t 2 h o  2 u s e ";
