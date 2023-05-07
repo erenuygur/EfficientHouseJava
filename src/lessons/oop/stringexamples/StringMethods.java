@@ -1,10 +1,11 @@
 package lessons.oop.stringexamples;
 
-import java.util.Locale;
+import java.util.Random;
 
 public class StringMethods{
     public static String TRAlphabet = "abcçdefgğhıijklmnoöprsştuüvyz";
     public static String ENAlphabet = "abcdefghijklmnopqrstuvwxyz";
+    public static Random random = new Random();
 
     public static String capitalize(String str)
     {
@@ -52,6 +53,40 @@ public class StringMethods{
             address += ".com";
 
         System.out.println(address);
+    }
+
+    /**
+
+     **/
+    public static String getRandomText(java.util.Random random, int len, String alphabet)
+    {
+        String resultText = "";
+
+        for (int i = 0; i < len; ++i) {
+            resultText += alphabet.charAt(random.nextInt(alphabet.length()));
+        }
+
+        return resultText;
+    }
+
+    public static String getRandomTextEN(int len)
+    {
+        return getRandomText(random, len, ENAlphabet);
+    }
+
+    public static String getRandomTextEN(java.util.Random r, int len)
+    {
+        return getRandomText(r, len, ENAlphabet);
+    }
+
+    public static String getRandomTextTR(int len)
+    {
+        return getRandomText(random, len, TRAlphabet);
+    }
+
+    public static String getRandomTextTR(java.util.Random r, int len)
+    {
+        return getRandomText(r, len, TRAlphabet);
     }
 
     public static String leftPad(String str, int len, char ch)

@@ -3,6 +3,8 @@ package lessons.oop.basics.randomclass;
 import java.util.Random;
 import java.util.Scanner;
 
+// Random Tuncay 13: 328
+// Random Berk   11: 205
 public class Seed {
     public static void main(String[] args)
     {

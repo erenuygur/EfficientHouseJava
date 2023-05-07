@@ -20,14 +20,17 @@ package lessons.oop.stringexamples;
     boolean bool = Boolean.parseBoolean("false");
  */
 
+import java.util.Random;
+
 public class StringMethodTest {
     public static void main(String[] args)
     {
-        CapitalizeTest.run();
-        RemoveAllWhitespacesTest.run();
-        IsBlankTest.run();
-        LeftRightPadTest.run();
-        PangramTest.run();
+//        CapitalizeTest.run();
+//        RemoveAllWhitespacesTest.run();
+//        IsBlankTest.run();
+//        LeftRightPadTest.run();
+//        PangramTest.run();
+        RandomTextTest.run();
     }
 }
 
@@ -69,5 +72,15 @@ class PangramTest {
     public static void run() {
         System.out.println(StringMethods.isPangramTR("Açgözlü ve hoşnut, prestije feci bağımlıydık."));
         System.out.println(StringMethods.isPangramEN("the quick brown fox jumps over a lazy dog"));
+    }
+}
+
+class RandomTextTest {
+    public static void run()
+    {
+        java.util.Random r = new java.util.Random();
+        r.setSeed(13);
+
+        System.out.println(StringMethods.getRandomTextTR(r, 10));
     }
 }
