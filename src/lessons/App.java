@@ -1,10 +1,11 @@
 package lessons;
 
-class A{
-    
-}
+import lessons.imports.SingleTypeStaticImport;
 
-class B {
-
+public class App {
+    public static void main(String[] args)
+    {
+        SingleTypeStaticImport.run();
+    }
 }
 
