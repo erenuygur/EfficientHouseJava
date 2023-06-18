@@ -1,4 +1,6 @@
 .idea
 out
 EfficientHouseJava.iml
+.gitignore
+methodsTutorials.md
 
