@@ -28,3 +28,12 @@ public class Assign {
         }
     }
 }
+
+
+class Class {
+    Student [] students;
+}
+
+class Student {
+
+}
