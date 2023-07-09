@@ -30,6 +30,11 @@ public class ArrayMethods {
         return randomArray;
     }
 
+    //TODO max(int[] nums)
+
+    //TODO min(int[] nums)
+
+    //TODO mod(int[] nums)
 
     public static int[] reverse(int[] nums)
     {
