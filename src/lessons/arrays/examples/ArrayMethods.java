@@ -1,8 +1,19 @@
 package lessons.arrays.examples;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class ArrayMethods {
+
+    public static void bubbleSortAscending(int[] a)
+    {
+        for (int i = a.length - 1; i > 0; --i)
+            for (int j = 0; j < i; ++j)
+                if (a[j] > a[j + 1])
+                    swap(a, j, j + 1);
+    }
+
+    //TODO: bubbleSortDescending(int[] a)
 
 
     public static void displayArray(int[] a)
@@ -30,13 +41,36 @@ public class ArrayMethods {
         return randomArray;
     }
 
-    //TODO max(int[] nums)
+    public static int max(int[] nums)
+    {
+        int max = nums[0];
 
-    //TODO min(int[] nums)
+        for (int i = 1; i < nums.length; ++i) {
+            if (nums[i] > max)
+                max = nums[i];
+        }
 
-    //TODO mod(int[] nums)
+        return max;
+    }
 
-    public static int[] reverse(int[] nums)
+    public static int min(int[] nums)
+    {
+        int min = nums[0];
+
+        for (int i = 1; i < nums.length; ++i) {
+            if (nums[i] < min)
+                min = nums[i];
+        }
+
+        return min;
+    }
+
+    public static double average(int[] nums)
+    {
+        return (double) sum(nums) / nums.length;
+    }
+
+    public static void reverse(int[] nums)
     {
         int lastIndex = nums.length - 1;
 
@@ -45,8 +79,24 @@ public class ArrayMethods {
             nums[i] = nums[lastIndex - i];
             nums[lastIndex - i] = temp;
         }
+    }
 
-        return nums;
+    // TODO: selectionSortAscending(int[] a)
+
+    public static void selectionSortDescending(int[] a)
+    {
+        for (int i = 0; i < a.length - 1; ++i) {
+
+            int maxIndex = i;
+
+            for (int j = i + 1; j < a.length; ++j) {
+                if (a[maxIndex] < a[j]) {
+                    maxIndex = j;
+                }
+            }
+
+            swap(a, i, maxIndex);
+        }
     }
 
     public static int sum(int[] nums)
@@ -58,6 +108,13 @@ public class ArrayMethods {
         }
 
         return result;
+    }
+
+    public static void swap(int[] a, int i, int j)
+    {
+        int temp = a[i];
+        a[i] = a[j];
+        a[j] = temp;
     }
 }
 

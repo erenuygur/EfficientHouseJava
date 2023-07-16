@@ -10,7 +10,7 @@ public class ArrayMethodsTest {
 
     public static void main(String[] args)
     {
-        reverseTest();
+        bubbleSortAscendingTest();
     }
 
     public static void reverseTest()
@@ -32,7 +32,8 @@ public class ArrayMethodsTest {
 
             displayArray(randomArray);
             System.out.print("reversed array: ");
-            displayArray(reverse(randomArray));
+            reverse(randomArray);
+            displayArray(randomArray);
         }
     }
 
@@ -55,6 +56,52 @@ public class ArrayMethodsTest {
 
             displayArray(randomArray);
             System.out.printf("Sum of the numbers: %d%n", sum(randomArray));
+        }
+    }
+
+    public static void selectionSortDescendingTest()
+    {
+        for (;;) {
+            System.out.print("Arrays Length:");
+            int length = Integer.parseInt(kb.nextLine());
+
+            if (length <= 0)
+                break;
+
+            System.out.print("Begin (inclusive):");
+            int begin = Integer.parseInt(kb.nextLine());
+
+            System.out.print("End (exclusive):");
+            int end = Integer.parseInt(kb.nextLine());
+
+            int [] randomArray = getRandomIntArray(r, length, begin, end);
+            displayArray(randomArray);
+            selectionSortDescending(randomArray);
+            displayArray(randomArray);
+
+        }
+    }
+
+    public static void bubbleSortAscendingTest()
+    {
+        for (;;) {
+            System.out.print("Arrays Length:");
+            int length = Integer.parseInt(kb.nextLine());
+
+            if (length <= 0)
+                break;
+
+            System.out.print("Begin (inclusive):");
+            int begin = Integer.parseInt(kb.nextLine());
+
+            System.out.print("End (exclusive):");
+            int end = Integer.parseInt(kb.nextLine());
+
+            int [] randomArray = getRandomIntArray(r, length, begin, end);
+            displayArray(randomArray);
+            bubbleSortAscending(randomArray);
+            displayArray(randomArray);
+
         }
     }
 }
