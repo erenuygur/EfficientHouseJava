@@ -13,7 +13,21 @@ public class ArrayMethods {
                     swap(a, j, j + 1);
     }
 
-    //TODO: bubbleSortDescending(int[] a)
+    public static void bubbleSortDescending(int[] a)
+    {
+        for (int i = 0; i < a.length - 1; ++i)
+            for (int j = a.length -1; j > 0; --j)
+                if (a[j] > a[j - 1])
+                    swap(a, j , j -1);
+    }
+
+    public static void bubbleSortDescendingSamet(int[] a)
+    {
+        for (int i = 0; i < a.length - 1; ++i)
+            for (int j = a.length -1; j > i; --j)
+                if (a[j] > a[j - 1])
+                    swap(a, j , j -1);
+    }
 
 
     public static void displayArray(int[] a)
@@ -81,7 +95,20 @@ public class ArrayMethods {
         }
     }
 
-    // TODO: selectionSortAscending(int[] a)
+    public static void selectionSortAscending(int[] a)
+    {
+        for (int i = 0; i < a.length - 1; ++i) {
+
+            int minIndex = i;
+
+            for (int j = i + 1; j < a.length; ++j)
+                if (a[j] < a[minIndex])
+                    minIndex = j;
+
+
+            swap(a, i, minIndex);
+        }
+    }
 
     public static void selectionSortDescending(int[] a)
     {
@@ -89,11 +116,9 @@ public class ArrayMethods {
 
             int maxIndex = i;
 
-            for (int j = i + 1; j < a.length; ++j) {
-                if (a[maxIndex] < a[j]) {
+            for (int j = i + 1; j < a.length; ++j)
+                if (a[maxIndex] < a[j])
                     maxIndex = j;
-                }
-            }
 
             swap(a, i, maxIndex);
         }
