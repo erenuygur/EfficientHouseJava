@@ -16,19 +16,10 @@ public class ArrayMethods {
     public static void bubbleSortDescending(int[] a)
     {
         for (int i = 0; i < a.length - 1; ++i)
-            for (int j = a.length -1; j > 0; --j)
-                if (a[j] > a[j - 1])
-                    swap(a, j , j -1);
-    }
-
-    public static void bubbleSortDescendingSamet(int[] a)
-    {
-        for (int i = 0; i < a.length - 1; ++i)
             for (int j = a.length -1; j > i; --j)
                 if (a[j] > a[j - 1])
                     swap(a, j , j -1);
     }
-
 
     public static void displayArray(int[] a)
     {

@@ -12,7 +12,6 @@ public class ArrayMethodsTest {
     {
         bubbleSortDescendingTest();
         System.out.println("--------------------------");
-        bubbleSortDescendingSametTest();
     }
 
     public static void reverseTest()
@@ -153,25 +152,4 @@ public class ArrayMethodsTest {
             displayArray(randomArray);
     }
 
-    public static void bubbleSortDescendingSametTest()
-    {
-            System.out.print("Arrays Length:");
-            int length = Integer.parseInt(kb.nextLine());
-
-            System.out.print("Begin (inclusive):");
-            int begin = Integer.parseInt(kb.nextLine());
-
-            System.out.print("End (exclusive):");
-            int end = Integer.parseInt(kb.nextLine());
-
-            int [] randomArray = getRandomIntArray(r, length, begin, end);
-            displayArray(randomArray);
-
-            long startTime = System.currentTimeMillis();
-            bubbleSortDescendingSamet(randomArray);
-            long endTime = System.currentTimeMillis();
-            System.out.printf("Samet: %d%n", endTime - startTime);
-
-            displayArray(randomArray);
-    }
 }
