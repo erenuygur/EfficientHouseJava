@@ -1,7 +1,7 @@
 package lessons.loops;
 
 public class ContinueExample {
-    public static void main(String[] args)
+    public static void run()
     {
         java.util.Scanner kb = new java.util.Scanner(System.in);
 
