@@ -24,7 +24,7 @@ public class NumericLotteryShop {
             return;
         }
 
-        int rowCount = takeCustomerWantedRowCount(customer);
+        int rowCount = takeCustomerWantedRowCount();
         System.out.printf("Customer: %d%n", rowCount);
 
         int price = rowCount * costOfRow;
@@ -64,7 +64,7 @@ public class NumericLotteryShop {
         return customer.age;
     }
 
-    public static int takeCustomerWantedRowCount(Customer customer)
+    public static int takeCustomerWantedRowCount()
     {
         System.out.print("Clerk: How many row do you want ?");
         return Integer.parseInt(kb.nextLine());
