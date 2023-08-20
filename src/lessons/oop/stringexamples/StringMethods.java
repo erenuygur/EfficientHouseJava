@@ -131,12 +131,16 @@ public class StringMethods{
 
     public static String reversed(String str)
     {
-        String result = "";
+        char[] chars = str.toCharArray();
+        int lastIndex = chars.length - 1;
 
-        for (int i = str.length() - 1; i >= 0; --i)
-            result += str.charAt(i);
+        for (int i = 0; i < chars.length / 2; ++i) {
+            char temp = chars[lastIndex - i];
+            chars[lastIndex - i] = chars[i];
+            chars[i] = temp;
+        }
 
-        return result;
+        return String.valueOf(chars);
     }
 
     public static String removeAllWhiteSpaces(String str) // It's not best practice
