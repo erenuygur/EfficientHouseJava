@@ -10,8 +10,7 @@ public class ArrayMethodsTest {
 
     public static void main(String[] args)
     {
-        bubbleSortDescendingTest();
-        System.out.println("--------------------------");
+        insertionShortTest();
     }
 
     public static void reverseTest()
@@ -150,6 +149,73 @@ public class ArrayMethodsTest {
 
             System.out.printf("Bircan: %d%n", endTime - startTime);
             displayArray(randomArray);
+    }
+
+    public static void insertionShortTest()
+    {
+        System.out.print("Arrays Length:");
+        int length = Integer.parseInt(kb.nextLine());
+
+        System.out.print("Begin (inclusive):");
+        int begin = Integer.parseInt(kb.nextLine());
+
+        System.out.print("End (exclusive):");
+        int end = Integer.parseInt(kb.nextLine());
+
+        int [] randomArray = getRandomIntArray(r, length, begin, end);
+        displayArray(randomArray);
+
+        long startTime = System.nanoTime();
+        insertionShort(randomArray);
+        long endTime = System.nanoTime();
+
+        System.out.println("--------------------------");
+        displayArray(randomArray);
+        System.out.printf("Time efficiency: %d%n", endTime - startTime);
+    }
+    public static void insertionShortAscendingTest()
+    {
+        System.out.print("Arrays Length:");
+        int length = Integer.parseInt(kb.nextLine());
+
+        System.out.print("Begin (inclusive):");
+        int begin = Integer.parseInt(kb.nextLine());
+
+        System.out.print("End (exclusive):");
+        int end = Integer.parseInt(kb.nextLine());
+
+        int [] randomArray = getRandomIntArray(r, length, begin, end);
+        displayArray(randomArray);
+
+        long startTime = System.nanoTime();
+        insertionShortAscending(randomArray);
+        long endTime = System.nanoTime();
+
+        System.out.println("--------------------------");
+        displayArray(randomArray);
+        System.out.printf("Time efficiency: %d%n", endTime - startTime);
+    }
+    public static void insertionShortDescendingTest()
+    {
+        System.out.print("Arrays Length:");
+        int length = Integer.parseInt(kb.nextLine());
+
+        System.out.print("Begin (inclusive):");
+        int begin = Integer.parseInt(kb.nextLine());
+
+        System.out.print("End (exclusive):");
+        int end = Integer.parseInt(kb.nextLine());
+
+        int [] randomArray = getRandomIntArray(r, length, begin, end);
+        displayArray(randomArray);
+
+        long startTime = System.nanoTime();
+        insertionShortDescending(randomArray);
+        long endTime = System.nanoTime();
+
+        System.out.println("--------------------------");
+        displayArray(randomArray);
+        System.out.printf("Time efficiency: %d%n", endTime - startTime);
     }
 
 }
